@@ -18,7 +18,7 @@
  4. Decide which FE framework will be used 
     [React Front app](https://github.com/EPAM-JS-Competency-center/shop-react-redux-cloudfront).  
     [Angular Front app](https://github.com/EPAM-JS-Competency-center/shop-angular-cloudfront). 
-    [React Front app](https://github.com/EPAM-JS-Competency-center/shop-vue-vuex-cloudfront). 
+    [Vue Front app](https://github.com/EPAM-JS-Competency-center/shop-vue-vuex-cloudfront). 
     Clone, install dependencies, run the app and check if everything is okay. 
  
  5. Decide which commodities will be sold in your shop - Mixed, Games, Toys, Electronic devices... you name it  
