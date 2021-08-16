@@ -34,7 +34,7 @@ This endpoint is not needed to be integrated with Frontend right now.
 **EVALUATION CRITERIA:**
 Reviewers (for Rolling Scopes Application only) should verify the lambda functions by invoking them through provided URLs.
 
-- **1** - poiproduct-service serverless config contains configuration for 2 lambda functions, API is not working at all, but YAML configuration is correct
+- **1** - Product-service serverless config contains configuration for 2 lambda functions, API is not working at all, but YAML configuration is correct
 - **2** - The getProductsList OR getProductsById lambda function returns a correct response (POINT1)
 - **3** - The getProductsById AND getProductsList lambda functions return a correct response code (POINT2)
 - **4** - Your own Frontend application is integrated with product service (/products API) and products from product-service are represented on Frontend.  AND POINT1 and POINT2 are done.
