@@ -6,7 +6,7 @@
 ---
 
 - The task is a continuation of S3 bucket integration and should be done in the same repos
-- Task goal is to create to create service to be able to save products which were provided in csv file in database.
+- Task goal is to create service to be able to save products which were provided in csv file in database.
 
 
 ## TASK 6.1
