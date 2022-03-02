@@ -44,7 +44,7 @@ The lambda function should use the **Readable stream** to get an object from S3,
 
 The response should be a correct HTTP response code.
 
-## Evaluation criteria
+## Evaluation criteria (each mark includes previous mark criteria)
 ---
 
 Reviewers should verify the lambda functions by invoking them through provided URLs.

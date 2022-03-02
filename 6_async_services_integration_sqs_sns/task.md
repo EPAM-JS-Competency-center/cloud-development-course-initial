@@ -31,7 +31,7 @@ Create an SNS topic **createProductTopic** and email subscription in the resourc
 Update the **catalogBatchProcess** lambda function to send an email once it creates products.
 
 
-## Evaluation criteria
+## Evaluation criteria (each mark includes previous mark criteria)
 ---
 
 Reviewers should verify the lambda functions, SQS and SNS topic and subscription in PR.

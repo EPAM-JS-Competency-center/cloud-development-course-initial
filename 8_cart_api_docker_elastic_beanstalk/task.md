@@ -30,7 +30,8 @@ Deploy Cart API service with Elastic Beanstalk.
 - **Update** the app and deploy changes using the **_eb deploy_** command.
 - **Update FE app**: pull the latest version of the app from repo and replace **{cart}** API placeholder in _src/constants/apiPaths.ts_ using a Cart API url you get after successful deployment. Make sure your app starts to call Cart API when you add or remove items. Now after page refresh cart’s content might remain the same.
 
-## EVALUATION CRITERIA:
+## Evaluation criteria (each mark includes previous mark criteria)
+---
     
 *   **1** - Dockerfile is prepared, image is building. Image size is minimised to be less than 500 MB.
 *   **2** - Dockerfile is optimized. Files that change more often and commands that depend on them should be included later, files and commands that change less should be at the top.
