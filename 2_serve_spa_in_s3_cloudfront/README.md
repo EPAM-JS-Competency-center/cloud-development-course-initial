@@ -29,7 +29,7 @@ How to serve SPA in AWS
 - [RU Homework](https://videoportal.epam.com/playlist/OJM9DLJn/play/AaZqzv79), ~3 mins
 
 ### External
-- [AWS S3 Core Concepts](https://www.youtube.com/watch?v=tfU0JEZjcsg)
+- [AWS S3 Core Concepts](https://www.youtube.com/watch?v=tfU0JEZjcsg), 27 mins
 - [AWS S3 Hands-On Tutorial](https://www.youtube.com/watch?v=XGcoeEyt2UM), ~45 mins
 - [AWS S3 Best Practices](https://www.youtube.com/watch?v=rHeTn9pHNKo), ~62 mins
 - [React App on AWS S3 with Static Hosting + Cloudfront](https://www.youtube.com/watch?v=mls8tiiI3uc), ~35 mins
