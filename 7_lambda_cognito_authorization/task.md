@@ -49,8 +49,11 @@ Provide your reviewers with the link to the repo, client application and URLs to
 * **5** - update client application to send Authorization: Basic **authorization_token** header on import. Client should get **authorization_token** value from browser localStorage https://developer.mozilla.org/ru/docs/Web/API/Window/localStorage
 **authorization_token** = localStorage.getItem('**authorization_token**')
  
-## Additional (optional) tasks - recommended for personal growth and further interviews, but this part would not be evauated on cross-check
+## Additional (optional) tasks
 ---
+
+**recommended for personal growth and further interviews, but this part would not be evauated on cross-check**
+
 * **+1** - Client application should display alerts for the responses in 401 and 403 HTTP statuses. This behavior should be added to the **nodejs-aws-fe-main/src/index.tsx** file
 * **just practice, no evaluation** - Add Login page and protect **getProducts** lambda by the Cognito Authorizer
   * Create Cognito User Pool using a demo from the lecture. Leave **email** in a list of standard required attributes. Checkbox **Allow users to sign themselves up** should be checked. Also, set **email** as an attribute that you want to verify.

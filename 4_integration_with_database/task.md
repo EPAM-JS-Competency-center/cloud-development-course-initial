@@ -1,8 +1,9 @@
-**Task 4 Cloud Databases Overview and integration with Database
-Overview of DB solutions (SQL, No-SQL (Dynamodb, Mongo, Redis, Elastic Search), NewSQL)
-Infrastructure As Code (IaC), deployment sample to deploy RDS")**
+# Task 4 (Cloud Databases Overview and integration with Database)
 
-**TASK 4.1**
+**Overview of DB solutions (SQL, No-SQL (Dynamodb, Mongo, Redis, Elastic Search), NewSQL) Infrastructure As Code (IaC), deployment sample to deploy RDS")**
+
+## TASK 4.1
+---
 
 Use AWS Console to create a database instance in RDS with PostgreSQL and default configuration. **(For T-Shape program SQL and NoSQL dbs might be used)**
 RDS instance configuration (Please have a look at Lecture Practical part)
@@ -24,8 +25,8 @@ Stock model:
 ```
 Write SQL script to fill tables with test examples. Store it in your GIT repository. Execute it for your DB to fill data. 
 
-
-**TASK 4.2**
+## TASK 4.2
+---
 
 Extend your serverless.yml file with credentials to your database instance and pass it to lambda’s environment variables section.
 Integrate GET/products lambda to return a list of products from the database (joined stocks and products tables)  Product instance on FE side should be joined model of product and stock by productId.
@@ -70,7 +71,8 @@ Recommended to use “pg” module to connect the database from the code  https:
 What does it mean for end user - user cannot buy more than product.count (no more items in stock) - But this is future functionality on FE side.
 Integrate GET/products/{productId} lambda to return a product from the database
 
-**TASK 4.3**
+## TASK 4.3
+---
 
 Implement POST/products lambda and implement its logic so it will be creating a new item in a products table.
 
@@ -78,7 +80,8 @@ You should create a branch from the master and work in the branch (f.e. branch n
 
 Provide your reviewers with the link to the repo and URL (API Gateway URL) to execute the implemented lambda functions.
 
-**EVALUATION CRITERIA:**
+## Evaluation criteria (each mark includes previous mark criteria)
+---
 
 Reviewers should verify the lambda functions by invoking them through provided URLs.
  
@@ -88,7 +91,8 @@ Reviewers should verify the lambda functions by invoking them through provided U
 - **5** - Your own Frontend application is integrated with product service (/products API) and products from product-service are represented on Frontend. Link to a working Front-End application is provided for cross-check reviewer.
 
 
-**Additional (optional) tasks (but nice to have):**
+## Additional (optional) tasks
+---
 
 - **+1** **(All languages)** - POST/products lambda functions returns error 400 status code if product data is invalid
 - **+1** **(All languages)** - All lambdas return error 500 status code on any error (DB connection, any unhandled error in code)
