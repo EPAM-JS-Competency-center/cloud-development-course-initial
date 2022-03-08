@@ -10,8 +10,10 @@
 - **(for JS only)** Install the CSV parser package (https://www.npmjs.com/package/csv-parser)
 - Sign in into AWS Console and create a new S3 bucket with a folder, called uploaded
 
-## TASK 5.1
+## Tasks
 ---
+
+### Task 5.1
 
 Create a new service, called **import-service**, with a its own **serverless.yml** file at the same level as product service.
 
@@ -33,8 +35,7 @@ The response from the lambda should be the created **Signed URL**.
 
 The lambda endpoint should be integrated with the frontend by updating **import** property of the API paths configuration.
 
-## TASK 5.2
----
+### Task 5.2
 
 Create a lambda function under the same **serverless.yml** file, called **importFileParser**, which will be triggered by the S3 **s3:ObjectCreated:*** event.
 

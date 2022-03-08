@@ -11,8 +11,10 @@ _NOTE: This should have already been done in Task 1, but as a reminder._
 - **Install** dependencies…
 - **Check** if everything works for you...
 
-## TASK 2.1
+## Tasks
 ---
+
+### Task 2.1
 
 **manual deployment**
 
@@ -21,8 +23,7 @@ _NOTE: This should have already been done in Task 1, but as a reminder._
 3. **Create** a _CloudFront distribution_ for your app as it was described in training materials. **Check** your S3 bucket policy changes. **Check** if the app is available through the Internet over given CloudFront URL.
 4. **Make** some minor but visible changes in the app, **build** and **upload** them to your bucket, and create CloudFront distribution invalidation.
 
-## TASK 2.2
----
+### Task 2.2
 
 **automated deployment using serverless-finch + serverless single-page-app plugins**
 
@@ -30,8 +31,7 @@ _NOTE: This should have already been done in Task 1, but as a reminder._
 2. **Destroy** created AWS infrastructure (S3 bucket and CloudFront distribution) from the previous part and steps. **Make sure** nothing is left.
 3. **Add** and **configure** _serverless-single-page-app-plugin_ as it is implemented in the demo repository. **Add** necessary npm script(s) to build, upload to your S3 bucket, and invalidate CloudFront cache from your machine in an automated way. Check if everything works fine and all changes appear on the Web. (_Please note, that you don’t need to manually create CloudFront invalidations any more_).
 
-## TASK 2.3
----
+### Task 2.3
 
 **Save your work (for Rolling Scopes Application only)**
 
