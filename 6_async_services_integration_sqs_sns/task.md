@@ -8,14 +8,14 @@
 - The task is a continuation of S3 bucket integration and should be done in the same repos
 - Task goal is to create service to be able to save products which were provided in csv file in database.
 
-
-## TASK 6.1
+## Tasks
 ---
+
+### Task 6.1
 
 Create a lambda function called **catalogBatchProcess** in the resources section in **serverless.yml**.
 
-## TASK 6.2
----
+### Task 6.2
 
 Create a SQS queue, called **catalogItemsQueue**, in the resources section in **serverless.yml** file.
 Configure the SQS to trigger lambda **catalogBatchProcess** with 5 messages at once via batchSize property.
@@ -23,13 +23,10 @@ The lambda function should iterate over all SQS messages and create correspondin
 
 Update the **importFileParser** lambda function (**TASK 5**) to send each CSV record into SQS.
 
-
-## TASK 6.3
----
+### Task 6.3
 
 Create an SNS topic **createProductTopic** and email subscription in the resources section in **serverless.yml**.
 Update the **catalogBatchProcess** lambda function to send an email once it creates products.
-
 
 ## Evaluation criteria (each mark includes previous mark criteria)
 ---

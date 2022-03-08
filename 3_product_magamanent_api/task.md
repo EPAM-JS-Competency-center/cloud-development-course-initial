@@ -20,23 +20,22 @@ Create your own public github repository for all future backend work (you might 
 
 **Add dynamic product representation on Frontend side.**
 
-## TASK 3.1
+## Tasks
 ---
+
+### Task 3.1
 
 Create a lambda function under the same serverless config file (it can be yml, ts, etc) of product-service. Function is called getProductsList which will be triggered by the HTTP GET method.
 The requested URL should be /products
 The response from the lambda should be FULL array of products (mock data should be used - this mock data should be stored in Product Service).
 This endpoint should be integrated with Frontend app for product list page representation.
 
-
-## TASK 3.2
----
+### Task 3.2
 
 Create a lambda function under the same serverless config file of product-service. Function is called getProductsById which will be triggered by the HTTP GET method.
 The requested URL should be /products/{productId}   (What is product ID in your application is up to you - productName, UUID, etc.)
 The response from the lambda should be 1 searched product from an array of products (mock data should be used - this mock data should be stored in Product Service).
 This endpoint is not needed to be integrated with Frontend right now.
-
 
 ## Evaluation criteria (each mark includes previous mark criteria)
 ---

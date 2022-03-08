@@ -8,7 +8,10 @@
 - [AWS EB CLI](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html) must be installed
 - [Docker](https://docs.docker.com/get-docker/) must be installed
 
-## TASK 8.1
+## Tasks
+---
+
+### Task 8.1
    
 Create Dockerfile that will build a docker image to run the service. You can use the example provided in the lecture as a starting point. Then, do following steps:
    
@@ -20,7 +23,7 @@ Create Dockerfile that will build a docker image to run the service. You can use
 - OPTIONAL: Optimize build times by utilizing multistage builds.
 - OPTIONAL: **Lint** Dockerfile.
 
-## TASK 8.2
+### Task 8.2
 
 Deploy Cart API service with Elastic Beanstalk.
 - **Use** a **Dockerfile** from **TASK 8.1** to deploy your Cart API using AWS EB CLI.

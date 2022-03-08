@@ -7,8 +7,10 @@
 - The task should be done in the backend repo - the same repo with **product-service** and **import-service** services
 - **product-service** and **CART** services should exist and work in your application
 
-## TASK 9.1
+## Tasks
 ---
+
+### Task 9.1
  
 Create a folder for the **bff-service** in the same level as for other services in the repo. Create an **express** application in this folder, that listens for all requests and redirects those requests to the appropriate services based on variables provided by the **.env** file.
 
@@ -25,8 +27,7 @@ Create a folder for the **bff-service** in the same level as for other services 
 If **bff-service** cannot find **recipientURL** by the **{recipient-service-name}**, return a 'Cannot process request’ error message with status 502.  
 **bff-service** should return the same status code and error message that the recipient service returns to the **bff-service** in case of any error on the recipient service side.  
 
-## TASK 9.2
----
+### Task 9.2
 
 Deploy **bff-service** with Elastic Beanstalk. 
 * Platform should be **node.js**

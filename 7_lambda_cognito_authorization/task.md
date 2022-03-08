@@ -4,8 +4,10 @@
 ---
 - The task is a continuation of **Homework 6** and should be done in the same repo.
 
-## TASK 7.1
+## Tasks
 ---
+
+### Task 7.1
  
 Create a new service, called **authorization-service**, with its own **serverless.yml** file at the same level as product and import services.
 
@@ -25,13 +27,11 @@ Create **basicAuthorizer** lambda function in authorization service in **serverl
 .env file example:
 vasiapupkin=TEST_PASSWORD
  
-## TASK 7.2
----
+### Task 7.2
  
 Add Lambda authorization (**basicAuthorizer** lambda) to the **/import** path of the **import-service** API Gateway.
  
-## TASK 7.3
----
+### Task 7.3
  
 Request from the client application to the **/import** path of the **import-service** should have Basic Authorization header: 
 Authorization: Basic **authorization_token** 
