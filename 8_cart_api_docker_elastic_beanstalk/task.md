@@ -3,7 +3,7 @@
 ## Prerequisites
 ---
 
-- The task is a continuation of **Homework 7** and should be done in the same front-end repo
+- The task is a continuation of **Homework 7** and should be done in the same repo
 - Create your own copy of [Cart API template repository](https://github.com/boale/rs-cart-api)
 - [AWS EB CLI](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html) must be installed
 - [Docker](https://docs.docker.com/get-docker/) must be installed
@@ -36,7 +36,7 @@ Deploy Cart API service with Elastic Beanstalk.
 ## Evaluation criteria (each mark includes previous mark criteria)
 ---
     
-*   **1** - Dockerfile is prepared, image is building. Image size is minimised to be less than 500 MB.
+*   **1** - Dockerfile is prepared, image is building. Image size is minimized to be less than 500 MB.
 *   **2** - Dockerfile is optimized. Files that change more often and commands that depend on them should be included later, files and commands that change less should be at the top.
 *   **3** - Folders are added to .dockerignore, with explanations. At least 2 big directories should be excluded from build context. Elastic Beanstalk application is initialized.
 *   **4** - Environment is created and the app is deployed to the AWS cloud. You must provide a link to your GitHub repo with Cart API service or PR with created Dockerfile and related configurations.
