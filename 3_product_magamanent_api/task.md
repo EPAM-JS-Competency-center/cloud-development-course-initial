@@ -1,6 +1,6 @@
 # Task 3 (First API with AWS API GatewayAWS Lambda)
 
-**After Lecture3 "First API with AWS API GatewayAWS Lambda"**  
+**After Lecture 3 "First API with AWS API GatewayAWS Lambda"**  
 
 Task goal - Create first API based microservice to get mocked products (1 product by productId, getall products).
 This product microservice is needed to be created in NEW GITHUB PUBLIC REPOSITORY AS DESCRIBED AND SHOWED on lecture.
