@@ -5,8 +5,8 @@
 
 ### Task 1.1
 
-1.  (Optional) Install Discord, register and [go to chat](https://discord.gg/kHkXwpcE)
-2.  Register in Rolling Scopes App https://app.rs.school/registry/student?course=aws-2021 (feel free ask questions in chat)
+1.  Install Discord (you can also use web version), register and [go to chat](https://discord.gg/a24Ndwfj7a)
+2.  Register in RS App https://app.rs.school/registry/student?course=aws-2021 (feel free ask questions in chat)
 
 ### Task 1.2
 
