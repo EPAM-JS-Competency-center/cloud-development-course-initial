@@ -17,7 +17,14 @@ Docker. AWS Elastic Beanstalk
 # Materials
 
 ## Video
-### Internal
+### Must Watch
+
+The following content provides enough info to complete the task.
+
+#### In English
+- [TBD](https://videoportal.epam.com/), ~0 mins
+
+#### In Russian
 - [RU Introduction](https://videoportal.epam.com/playlist/OJM9DLJn/play/e73KGg7A), ~3 mins
 - [RU Docker is for Everyone](https://videoportal.epam.com/playlist/OJM9DLJn/play/GYllGnYW), ~6 mins
 - [RU Docker Ecosystem](https://videoportal.epam.com/playlist/OJM9DLJn/play/jaNq6j76), ~32 mins
@@ -27,7 +34,9 @@ Docker. AWS Elastic Beanstalk
 - [RU Deploy and Delete an Application with AWS Elastic Beanstalk](https://videoportal.epam.com/playlist/OJM9DLJn/play/V7gK8D70), ~55 mins
 - [RU Homework](https://videoportal.epam.com/playlist/OJM9DLJn/play/y76xGVY8), ~6 mins
 
-### External
+### Additional
+
+The following content provides more info for further studies.
 - [Docker Containers 101](https://www.youtube.com/watch?v=eGz9DS-aIeY), ~23 mins
 - [AWS Elastic Beanstalk Hands-On Tutorial](https://www.youtube.com/watch?v=jnMUp2c9AzA), ~29 mins
 - [PaaS – From Code to Running Application using AWS Elastic Beanstalk](https://www.youtube.com/watch?v=lmT7QI8IIiM), ~54 mins

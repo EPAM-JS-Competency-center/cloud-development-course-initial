@@ -16,7 +16,14 @@ Authorization
 # Materials
 
 ## Video
-### Internal
+### Must Watch
+
+The following content provides enough info to complete the task.
+
+#### In English
+- [TBD](https://videoportal.epam.com/), ~0 mins
+
+#### In Russian
 - [RU Intoduction](https://videoportal.epam.com/playlist/OJM9DLJn/play/qJXqvL7w), ~2 mins
 - [RU Authorization Process in General](https://videoportal.epam.com/playlist/OJM9DLJn/play/BYb4y87X), ~24 mins
 - [RU Lambda Authorization](https://videoportal.epam.com/playlist/OJM9DLJn/play/va8lG4a1), ~3 mins
@@ -25,7 +32,9 @@ Authorization
 - [RU Cognito Authorization](https://videoportal.epam.com/playlist/OJM9DLJn/play/Qa1mGvak), ~8 mins
 - [RU Cognito Authorization Practice](https://videoportal.epam.com/playlist/OJM9DLJn/play/ZaDPxlao), ~22 mins
 
-### External
+### Additional
+
+The following content provides more info for further studies.
 - [Secure your API Gateway with Amazon Cognito User Pools](https://www.youtube.com/watch?v=oFSU6rhFETk), ~31 mins
 - [Secure your API Gateway with Lambda Authorizer](https://www.youtube.com/watch?v=al5I9v5Y-kA), ~25 mins
 - [Beyond authentication: Guide to secure Amazon Cognito applications](https://www.youtube.com/watch?v=QDR-pX7Ho8k), ~26 mins

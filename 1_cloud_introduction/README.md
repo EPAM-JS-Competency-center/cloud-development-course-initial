@@ -33,12 +33,21 @@ Cloud Introduction
 # Materials
 
 ## Video
-### Internal
+### Must Watch
+
+The following content provides enough info to complete the task.
+
+#### In English
+- [TBD](https://videoportal.epam.com/), ~0 mins
+
+#### In Russian
 - [RU Basic Part](https://videoportal.epam.com/playlist/OJM9DLJn/play/wY9ojQ7y), ~40 mins
 - [RU Advanced Part](https://videoportal.epam.com/playlist/OJM9DLJn/play/V7r2XK7n), ~20 mins
 - [RU Practical Part](https://videoportal.epam.com/playlist/OJM9DLJn/play/ba215X7k), ~24 mins
 
-### External
+### Additional
+
+The following content provides more info for further studies.
 - [AWS IAM Core Concepts](https://www.youtube.com/watch?v=_ZCTvmaPgao), ~21 mins
 - [AWS IAM Hands-On Tutorial](https://www.youtube.com/watch?v=UqKWHZ36yEM), ~46 mins
 - [AWS IAM Best Practices](https://www.youtube.com/watch?v=_wiGpBQGCjU), ~53 mins
