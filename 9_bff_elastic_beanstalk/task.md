@@ -30,7 +30,7 @@ If **bff-service** cannot find **recipientURL** by the **{recipient-service-name
 ### Task 9.2
 
 Deploy **bff-service** with Elastic Beanstalk. 
-* Platform should be **node.js**
+* Platform should be **Node.js**
 * Application name must follow the following convention **{yours_github_account_login}-bff-api**
 * Use the **--cname** option **{yours_github_account_login}-bff-api-{environment_name}**
 * Use the **--single** option
