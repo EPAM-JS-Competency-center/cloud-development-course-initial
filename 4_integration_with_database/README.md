@@ -9,18 +9,18 @@ Integration with Database
 # Topics
 
 ## Introduction
-- Getcommon overview of (R)DBMS structure and data types. 
-- Learn what DDL, DML, TCL, DCL stands for.
-- Be familiar with indexes, indextypes and their drawbacks. 
-- Know about relations (one-to-one, one-to-many, many-to-many).
-- See how to use queries and subqueries.
-- Understand joins.
+- Basic Overview of (R)DBMS structure and data types
+- Learn what DDL, DML, TCL, DCL stands for
+- Be familiar with indexes, indextypes and their drawbacks
+- Know about relations (one-to-one, one-to-many, many-to-many)
+- See how to use queries and subqueries
+- Understand joins
 - Overview aggregation functions
 
 ## AWS Databases
-- Overview Amazon cloud databases.
-- Be introduced with supported engines.
-- Know about use cases of different databases
+- Overview of AWS database offering
+- Introduction to AWS supported DB engines.
+- Use cases of different databases
 
 ## Practice
 - See practical guide how to configure RDS instance in AWS console.

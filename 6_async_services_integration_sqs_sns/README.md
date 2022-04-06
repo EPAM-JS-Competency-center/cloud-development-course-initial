@@ -1,5 +1,5 @@
 # Title
-SQS & SNS, Async microservices communication
+SQS & SNS, Async Microservices Communication
 
 # Goal
 - Learn what async microservices communication is all about

@@ -1,4 +1,4 @@
-# Task 6 (AWS SQS/SNS)
+# Task 6 (SQS & SNS, Async Microservices Communication)
 
 **After Lecture 6 "Lecture 6: SNS subscription to file upload + Using Lambdas with SQS and SNS"**
 

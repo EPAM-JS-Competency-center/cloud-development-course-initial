@@ -1,4 +1,4 @@
-# Task 4 (Cloud Databases Overview and integration with Database)
+# Task 4 (Integration with Database)
 
 **Overview of DB solutions (SQL, No-SQL (Dynamodb, Mongo, Redis, Elastic Search), NewSQL) Infrastructure As Code (IaC), deployment sample to deploy RDS")**
 
