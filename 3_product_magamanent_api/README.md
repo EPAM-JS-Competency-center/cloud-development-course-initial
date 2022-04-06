@@ -70,4 +70,4 @@ The following content provides more info for further studies.
 - [Tutorial: Build a Hello World REST API with Lambda proxy integration](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-as-simple-proxy-for-lambda.html)
 
 # Assignments
-[First API with AWS API GatewayAWS Lambda](./task.md)
+[First API with AWS API Gateway and AWS Lambda](./task.md)

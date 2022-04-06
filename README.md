@@ -2,14 +2,12 @@
 First steps in modern cloud development with Node.js
 
 ## Description
----
 
 Cross-country global mentoring program which aims at improving corresponding hands-on skills of full-stack development with a main focus on NodeJS in AWS Cloud from e2e application perspective.
 
 The program consists of more than 10 step-by-step practice tasks that will result in practical experience working with Node.js artifacts implementing partials of RESTful API web server and relevant components, deploying and hosting micro-service application in AWS Cloud, and hands-on experience working with Cloud Databases.
 
 ## What you should know before starting
----
 
 ### Required before the start
 
@@ -21,24 +19,17 @@ The program consists of more than 10 step-by-step practice tasks that will resul
 
 ### What to do if you lack base knowledge
 
-In this case, you will have to spend enough time on self-preparation.
-
-We recommend:
-
 - Take a course in [Computer Science](https://rkhaslarov.github.io/computer-science-introduction).
 - Read a good [Javascript tutorial](https://javascript.info/).
 - Use [Codewars platform](https://www.codewars.com/kata/search/javascript) to solve practical tasks. You can start with [simple ones](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&beta=false).
 - Take free online courses:
-- - [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
-- - [Learn Git](https://www.codecademy.com/learn/learn-git)
-- - [Intro to Computer Science](https://www.udacity.com/course/cs101)
-- - [Algorithms](https://www.coursera.org/course/algs4partI)
+  - [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+  - [Learn Git](https://www.codecademy.com/learn/learn-git)
+  - [Intro to Computer Science](https://www.udacity.com/course/cs101)
+  - [Algorithms](https://www.coursera.org/course/algs4partI)
 - Believe in your strength!
 
-
-
 ## Course Goal
----
 
 By completing this program a participant will be able to:
 
@@ -47,7 +38,6 @@ By completing this program a participant will be able to:
 3. Obtain intermediate knowledge about micro-service architecture, serverless architecture, etc.
 
 ## Course Curriculum
----
 
 This program will have theory and practice on the following topic:
 
@@ -66,7 +56,7 @@ This program will have theory and practice on the following topic:
 - Serverless Framework overview
 - AWS CLI overview
 
-### Module 3 - First API with AWS API GatewayAWS Lambda
+### Module 3 - First API with AWS API Gateway and AWS Lambda
 - AWS Lambda Overview
 - Serverless Framework and Lambda 
 - Introduction to Collecting logs with AWS CloudWatch
