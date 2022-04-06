@@ -15,14 +15,23 @@ SQS & SNS, Async microservices communication
 # Materials
 
 ## Video
-### Internal
+### Must Watch
+
+The following content provides enough info to complete the task.
+
+#### In English
+- [TBD](https://videoportal.epam.com/), ~0 mins
+
+#### In Russian
 - [RU Message Queue Intoduction](https://videoportal.epam.com/playlist/OJM9DLJn/play/1JemgQJv), ~11 mins
 - [RU SQS Intoduction](https://videoportal.epam.com/playlist/OJM9DLJn/play/mYR2XDYW), ~11 mins
 - [RU Basic Practice (manual integration)](https://videoportal.epam.com/playlist/OJM9DLJn/play/67KqE0YV), ~18 mins
 - [RU Practice (Using Serverless framework)](https://videoportal.epam.com/playlist/OJM9DLJn/play/Q7z1GlJM), ~29 mins
 - [RU Homework](https://videoportal.epam.com/playlist/OJM9DLJn/play/dYoQG273), ~6 mins
 
-### External
+### Additional
+
+The following content provides more info for further studies.
 - [AWS SQS Overview](https://www.youtube.com/watch?v=CyYZ3adwboc), ~29 mins
 - [AWS SNS Overview](https://www.youtube.com/watch?v=bktTomENEX8), ~17 mins
 - [SNS vs SQS Comparison](https://www.youtube.com/watch?v=mXk0MNjlO7A), ~11 mins

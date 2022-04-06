@@ -17,7 +17,14 @@ How to serve SPA in AWS
 # Materials
 
 ## Video
-### Internal
+### Must Watch
+
+The following content provides enough info to complete the task.
+
+#### In English
+- [TBD](https://videoportal.epam.com/), ~0 mins
+
+#### In Russian
 - [RU Intoduction](https://videoportal.epam.com/playlist/OJM9DLJn/play/lay0QP7j), ~3 mins
 - [RU S3 Intro](https://videoportal.epam.com/playlist/OJM9DLJn/play/V7gKrW70), ~2 mins
 - [RU CloudFront Intro](https://videoportal.epam.com/playlist/OJM9DLJn/play/y76xEQY8), ~4 mins
@@ -28,7 +35,9 @@ How to serve SPA in AWS
 - [RU Serverless & CloudFront](https://videoportal.epam.com/playlist/OJM9DLJn/play/ZaDPKLao), ~20 mins
 - [RU Homework](https://videoportal.epam.com/playlist/OJM9DLJn/play/AaZqzv79), ~3 mins
 
-### External
+### Additional
+
+The following content provides more info for further studies.
 - [AWS S3 Core Concepts](https://www.youtube.com/watch?v=tfU0JEZjcsg), 27 mins
 - [AWS S3 Hands-On Tutorial](https://www.youtube.com/watch?v=XGcoeEyt2UM), ~45 mins
 - [AWS CloudFront Hands-On Tutorial](https://www.youtube.com/watch?v=Vr4N_ZA-uGo), ~15 mins

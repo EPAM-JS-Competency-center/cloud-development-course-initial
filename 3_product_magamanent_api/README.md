@@ -36,14 +36,23 @@ Product Management API
 # Materials
 
 ## Video
-### Internal
+### Must Watch
+
+The following content provides enough info to complete the task.
+
+#### In English
+- [TBD](https://videoportal.epam.com/), ~0 mins
+
+#### In Russian
 - [RU Lambda Intro](https://videoportal.epam.com/playlist/OJM9DLJn/play/GYllynYW), ~20 mins
 - [RU Basic practice in AWS](https://videoportal.epam.com/playlist/OJM9DLJn/play/jaNq3j76), ~27 mins
 - [RU Advanced Theory](https://videoportal.epam.com/playlist/OJM9DLJn/play/kaE0wK7e), ~11 mins
 - [RU How to create Rest API using Serverless framework and Lambda](https://videoportal.epam.com/playlist/OJM9DLJn/play/mYQqE9Yp), ~34 mins
 - [RU Homework](https://videoportal.epam.com/playlist/OJM9DLJn/play/OJMqxBJn), ~27 mins
 
-### External
+### Additional
+
+The following content provides more info for further studies.
 - [AWS Lambda Core Concepts](https://www.youtube.com/watch?v=iUIWG0h2D84), ~7 mins
 - [Introduction to AWS Lambda & Serverless Applications](https://www.youtube.com/watch?v=EBSdyoO3goc), ~56 mins
 - [Building APIs with Amazon API Gateway](https://www.youtube.com/watch?v=XwfpPEFHKtQ), ~43 mins

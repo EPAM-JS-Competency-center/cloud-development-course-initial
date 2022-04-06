@@ -32,12 +32,21 @@ Integration with Database
 # Materials
 
 ## Video
-### Internal
+### Must Watch
+
+The following content provides enough info to complete the task.
+
+#### In English
+- [TBD](https://videoportal.epam.com/), ~0 mins
+
+#### In Russian
 - [RU Databases Intro](https://videoportal.epam.com/playlist/OJM9DLJn/play/rJdex17Q), ~55 mins
 - [RU Databases in AWS](https://videoportal.epam.com/playlist/OJM9DLJn/play/V7gKND70), ~26 mins
 - [RU AWS Practice with Databases](https://videoportal.epam.com/playlist/OJM9DLJn/play/y76xwVY8), ~46 mins
 
-### External
+### Additional
+
+The following content provides more info for further studies.
 - [What is Amazon RDS and How It Works](https://www.youtube.com/watch?v=tLp8pPNdDXQ), ~13 mins
 - [Amazon Relational Database Service (Amazon RDS)](https://www.youtube.com/watch?v=igRfulrrYCo), ~63 mins
 - [SQL vs NoSQL Explained](https://www.youtube.com/watch?v=ruz-vK8IesE), ~12 mins

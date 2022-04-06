@@ -15,14 +15,23 @@ Backend For Frontend
 # Materials
 
 ## Video
-### Internal
+### Must Watch
+
+The following content provides enough info to complete the task.
+
+#### In English
+- [TBD](https://videoportal.epam.com/), ~0 mins
+
+#### In Russian
 - [RU Introduction](https://videoportal.epam.com/playlist/OJM9DLJn/play/AaZqxz79), ~1 mins
 - [RU Theory and concepts](https://videoportal.epam.com/playlist/OJM9DLJn/play/2Jw8GG7M), ~16 mins
 - [RU Elastic Beanstalk](https://videoportal.epam.com/playlist/OJM9DLJn/play/M7k3qd7p), ~7 mins
 - [RU Demo](https://videoportal.epam.com/playlist/OJM9DLJn/play/RYpMGwJy), ~15 mins
 - [RU Questions](https://videoportal.epam.com/playlist/OJM9DLJn/play/oYVqRqa0), ~7 mins
 
-### External
+### Additional
+
+The following content provides more info for further studies.
 - [Backends For Frontends Pattern](https://www.youtube.com/watch?v=wgD9t3R3x-w), ~12 mins
 - [Why Backend for Frontend Is Key to Your Microservices Journey](https://www.youtube.com/watch?v=PwgQZ8eCGxA), ~43 mins
 - [Deploy your code, scale, and lower cloud costs using Elastic Beanstalk](https://www.youtube.com/watch?v=o4clRJuH9xU), ~56 mins

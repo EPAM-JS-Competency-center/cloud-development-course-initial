@@ -18,7 +18,14 @@ Integration with S3
 # Materials
 
 ## Video
-### Internal
+### Must Watch
+
+The following content provides enough info to complete the task.
+
+#### In English
+- [TBD](https://videoportal.epam.com/), ~0 mins
+
+#### In Russian
 - [RU Intoduction](https://videoportal.epam.com/playlist/OJM9DLJn/play/mYR2XAYW), ~1 mins
 - [RU Task and Lecture Goal](https://videoportal.epam.com/playlist/OJM9DLJn/play/67KqE8YV), ~2 mins
 - [RU Basic Theory](https://videoportal.epam.com/playlist/OJM9DLJn/play/Q7z1goJM), ~13 mins
@@ -27,7 +34,9 @@ Integration with S3
 - [RU Needed configurations (Serverless configuration)](https://videoportal.epam.com/playlist/OJM9DLJn/play/e73K3M7A), ~3 mins
 - [RU Homework](https://videoportal.epam.com/playlist/OJM9DLJn/play/GYllvNYW), ~8 mins
 
-### External
+### Additional
+
+The following content provides more info for further studies.
 - [AWS S3 Best Practices](https://www.youtube.com/watch?v=rHeTn9pHNKo), ~62 mins
 - [AWS S3 APIs Walkthrough](https://www.youtube.com/watch?v=AAOJ0BAJVJs), ~22 mins
 - [AWS S3 Lifecycle Rules](https://www.youtube.com/watch?v=CPUjRhrsMiI), ~5 mins
