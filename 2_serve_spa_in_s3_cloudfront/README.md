@@ -9,7 +9,7 @@ How to serve SPA in AWS
 # Topics
 - AWS Simple Storage Service overview
 - Services & Tools overview
-- CloudFront overview
+- AWS CloudFront overview
 - Basic overview of deployment process to CloudFront and S3
 - Serverless Framework overview
 - AWS CLI overview

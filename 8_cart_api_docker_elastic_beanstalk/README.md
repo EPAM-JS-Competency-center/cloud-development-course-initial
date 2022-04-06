@@ -1,5 +1,5 @@
 # Title
-Docker. AWS Elastic Beanstalk
+Docker and AWS Elastic Beanstalk
 
 # Goal
 - Learn what Docker is all about

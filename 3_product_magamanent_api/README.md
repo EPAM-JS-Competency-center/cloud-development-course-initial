@@ -9,12 +9,12 @@ Product Management API
 # Topics
 
 ## Introduction
-- Presented with Lambda and EC2 comparison.   
-- Learn about serverless concept.   
-- Get familiar with AWS Lambda and AWS Gateway services.   
-- Overview Lambda benefits and use cases.   
-- Get familiar with triggers for Lambda functions and API Gateway.   
-- Overview practical task.
+- Get presented with Lambda and EC2 comparison  
+- Learn about Serverless concepts  
+- Get familiar with AWS Lambda and AWS Gateway services
+- Overview Lambda benefits and use cases
+- Get familiar with triggers for Lambda functions and API Gateway
+- Practical Task overview
 
 ## Basic Practice
 - Learn how to create simple Lambda function.

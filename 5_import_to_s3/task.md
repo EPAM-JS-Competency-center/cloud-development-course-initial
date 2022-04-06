@@ -1,4 +1,4 @@
-# Task 5 (AWS Simple Storage Service - S3)
+# Task 5 (Integration with S3)
 
 **After Lecture 5 "Amazon Simple Storage Service (Amazon S3)"**
 

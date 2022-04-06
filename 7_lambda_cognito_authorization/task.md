@@ -1,4 +1,4 @@
-# Task 7 (Lambda Authorizer + Cognito Authorization)
+# Task 7 (Authorization)
 
 ## Prerequisites
 ---

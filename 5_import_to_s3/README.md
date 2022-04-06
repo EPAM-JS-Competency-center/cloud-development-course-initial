@@ -7,13 +7,11 @@ Integration with S3
 - Set up an integration with AWS S3 and AWS Lambda
 
 # Topics
-- S3 Theory overview
-- S3 Storage Classes
-- S3 Access Control
-- S3 Versioning
-- S3 Lifecycle Management
-- S3 Encryption
-- S3 Events
+- AWS S3 In-depth Introduction
+- AWS S3 Storage Classes and their Use Cases
+- AWS S3 Access Control & Encryption
+- AWS S3 Versioning, Lifecycle Management & Events
+- Integration with S3 and Lambda Overview
 
 # Materials
 

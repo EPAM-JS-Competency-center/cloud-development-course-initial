@@ -1,4 +1,4 @@
-# Task 8 (Docker. AWS Elastic Beanstalk)
+# Task 8 (Docker and AWS Elastic Beanstalk)
 
 ## Prerequisites
 ---
