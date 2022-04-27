@@ -43,11 +43,33 @@ The following content provides more info for further studies.
 - [Elastic Beanstalk Features & Config](https://www.youtube.com/watch?v=PKjbuxnispM), ~19 mins
 
 ## Reading
-- [What is AWS Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
-- [Getting started using Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html)
-- [Elastic Beanstalk concepts](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.html)
-- [Configuring your development machine for use with Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/chapter-devenv.html)
-- [Learning Containers From The Bottom Up](https://iximiuz.com/en/posts/container-learning-path/)
+
+<details>
+  <summary>Must Read</summary>
+
+  The following content provides enough info to complete the task.
+
+  <blockquote>
+
+  - [What is AWS Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
+  - [Getting started using Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html)
+  - [Elastic Beanstalk concepts](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.html)
+  </blockquote>
+
+</details>
+
+<details>
+  <summary>Additional</summary>
+
+  The following content provides more info for further studies.
+
+  <blockquote>
+
+  - [Configuring your development machine for use with Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/chapter-devenv.html)
+  - [Learning Containers From The Bottom Up](https://iximiuz.com/en/posts/container-learning-path/)
+  </blockquote>
+
+</details>
 
 # Assignments
 [Docker. AWS Elastic Beanstalk](./task.md)

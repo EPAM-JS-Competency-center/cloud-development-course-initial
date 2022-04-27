@@ -40,16 +40,39 @@ The following content provides more info for further studies.
 - [Build High-Throughput, Bursty Data Apps with Amazon SQS, SNS, & Lambda](https://www.youtube.com/watch?v=YwHxvKhBQ_g), ~55 mins
 
 ## Reading
-- [What is Amazon SNS](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
-- [Getting started with Amazon SNS](https://docs.aws.amazon.com/sns/latest/dg/sns-getting-started.html)
-- [Common Amazon SNS scenarios](https://docs.aws.amazon.com/sns/latest/dg/sns-common-scenarios.html)
-- [AWS SNS FAQs](https://aws.amazon.com/sns/faqs/)
-- [What is Amazon SQS](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html)
-- [Getting started with Amazon SQS](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-getting-started.html)
-- [Basic Amazon SQS architecture](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-basic-architecture.html)
-- [AWS SQS FAQs](https://aws.amazon.com/sqs/faqs/)
-- [Configuring a queue to trigger an AWS Lambda function](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-configure-lambda-function-trigger.html)
-- [Using Amazon SNS for application-to-person (A2P) messaging](https://docs.aws.amazon.com/sns/latest/dg/sns-user-notifications.html)
+
+<details>
+  <summary>Must Read</summary>
+
+  The following content provides enough info to complete the task.
+
+  <blockquote>
+
+  - [What is Amazon SNS](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
+  - [Getting started with Amazon SNS](https://docs.aws.amazon.com/sns/latest/dg/sns-getting-started.html)
+  - [Common Amazon SNS scenarios](https://docs.aws.amazon.com/sns/latest/dg/sns-common-scenarios.html)
+  - [AWS SNS FAQs](https://aws.amazon.com/sns/faqs/)
+  - [What is Amazon SQS](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html)
+  - [Getting started with Amazon SQS](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-getting-started.html)
+  </blockquote>
+
+</details>
+
+<details>
+  <summary>Additional</summary>
+
+  The following content provides more info for further studies.
+
+  <blockquote>
+
+  - [Basic Amazon SQS architecture](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-basic-architecture.html)
+  - [AWS SQS FAQs](https://aws.amazon.com/sqs/faqs/)
+  - [Configuring a queue to trigger an AWS Lambda function](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-configure-lambda-function-trigger.html)
+  - [Using Amazon SNS for application-to-person (A2P) messaging](https://docs.aws.amazon.com/sns/latest/dg/sns-user-notifications.html)
+  </blockquote>
+
+</details>
+
 
 # Assignments
 [AWS SQS/SNS](./task.md)

@@ -1,5 +1,5 @@
 # Title
-How to serve SPA in AWS
+Serving SPA in AWS
 
 # Goal
 - Learn what serving an SPA is all about
@@ -44,12 +44,33 @@ The following content provides more info for further studies.
 - [React App on AWS S3 with Static Hosting + Cloudfront](https://www.youtube.com/watch?v=mls8tiiI3uc), ~35 mins
 
 ## Reading
-- [What is Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
-- [Getting started with Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/GetStartedWithS3.html)
-- [AWS S3 FAQs](https://aws.amazon.com/s3/faqs/)
-- [What is Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
-- [Tutorial: Configuring a static website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html)
-- [What AWS service should you use to publish a web site](https://adrianhall.github.io/cloud/2019/01/31/which-aws-service-for-hosting/)
+
+<details>
+  <summary>Must Read</summary>
+
+  The following content provides enough info to complete the task.
+
+  <blockquote>
+
+  - [What is Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+  - [Getting started with Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/GetStartedWithS3.html)
+  - [AWS S3 FAQs](https://aws.amazon.com/s3/faqs/)
+  </blockquote>
+
+</details>
+
+<details>
+  <summary>Additional</summary>
+
+  The following content provides more info for further studies.
+
+  <blockquote>
+
+  - [Tutorial: Configuring a static website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html)
+  - [What AWS service should you use to publish a web site](https://adrianhall.github.io/cloud/2019/01/31/which-aws-service-for-hosting/)
+  </blockquote>
+
+</details>
 
 # Assignments
 [Serve SPA in AWS S3 and Cloudfront Services](./task.md)

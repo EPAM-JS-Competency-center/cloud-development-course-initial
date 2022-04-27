@@ -38,12 +38,34 @@ The following content provides more info for further studies.
 - [Microservices on AWS: Lambda VS Elastic Beanstalk](https://www.youtube.com/watch?v=UknlE_OMobY), ~64 mins
 
 ## Reading
-- [Service roles, instance profiles, and user policies](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts-roles.html)
-- [Managing environments](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.html)
-- [Deploying Node.js applications to Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs.html)
-- [Deploying an Express application to Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs_express.html)
-- [Basic health reporting](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.healthstatus.html)
-- [AWS Elastic Beanstalk security](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/security.html)
+
+<details>
+  <summary>Must Read</summary>
+
+  The following content provides enough info to complete the task.
+
+  <blockquote>
+
+  - [Service roles, instance profiles, and user policies](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts-roles.html)
+  - [Managing environments](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.html)
+  - [Deploying Node.js applications to Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs.html)
+  </blockquote>
+
+</details>
+
+<details>
+  <summary>Additional</summary>
+
+  The following content provides more info for further studies.
+
+  <blockquote>
+
+  - [Deploying an Express application to Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs_express.html)
+  - [Basic health reporting](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.healthstatus.html)
+  - [AWS Elastic Beanstalk security](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/security.html)
+  </blockquote>
+
+</details>
 
 # Assignments
 [Backend For Frontend](./task.md)

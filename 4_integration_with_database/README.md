@@ -7,27 +7,11 @@ Integration with Database
 - Set up an integration with AWS RDS
 
 # Topics
-
-## Introduction
-- Basic Overview of (R)DBMS structure and data types
-- Learn what DDL, DML, TCL, DCL stands for
-- Be familiar with indexes, indextypes and their drawbacks
-- Know about relations (one-to-one, one-to-many, many-to-many)
-- See how to use queries and subqueries
-- Understand joins
-- Overview aggregation functions
-
-## AWS Databases
+- Relational Databases Theory
+- SQL Overview
 - Overview of AWS database offering
-- Introduction to AWS supported DB engines.
-- Use cases of different databases
-
-## Practice
-- See practical guide how to configure RDS instance in AWS console.
-- Overview main options in configuration.
-- Go through practice example of DBeaver usage to work with databases.
-- Learn how to make serverless function manipulating your database.
-- Overview the home task.
+- AWS RDS and its engines
+- Serveless functions & AWS RDS
 
 # Materials
 
@@ -53,12 +37,34 @@ The following content provides more info for further studies.
 - [How to Choose a Database on AWS](https://www.youtube.com/watch?v=eK_umMYxZfM), ~7 mins
 
 ## Reading
-- [What is AWS RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
-- [Getting started with Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html)
-- [Best practices for Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html)
-- [AWS RDS FAQs](https://aws.amazon.com/rds/faqs/)
-- [Using Amazon RDS with Amazon VPC](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.html)
-- [A guide to understanding database scaling patterns](https://www.freecodecamp.org/news/understanding-database-scaling-patterns/)
+
+<details>
+  <summary>Must Read</summary>
+
+  The following content provides enough info to complete the task.
+
+  <blockquote>
+
+  - [What is AWS RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
+  - [Getting started with Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html)
+  - [AWS RDS FAQs](https://aws.amazon.com/rds/faqs/)
+  </blockquote>
+
+</details>
+
+<details>
+  <summary>Additional</summary>
+
+  The following content provides more info for further studies.
+
+  <blockquote>
+
+  - [Best practices for Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html)
+  - [Using Amazon RDS with Amazon VPC](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.html)
+  - [A guide to understanding database scaling patterns](https://www.freecodecamp.org/news/understanding-database-scaling-patterns/)
+  </blockquote>
+
+</details>
 
 # Assignments
 [Cloud Databases Overview and integration with Database](./task.md)

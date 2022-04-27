@@ -41,12 +41,34 @@ The following content provides more info for further studies.
 - [Deep dive on Amazon S3](https://www.youtube.com/watch?v=FJJxcwSfWYg), ~47 mins
 
 ## Reading
-- [AWS IAM in AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-access-control.html)
-- [Amazon S3 Storage Classes](https://aws.amazon.com/s3/storage-classes/)
-- [Managing your storage lifecycle](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html)
-- [Protecting data using encryption](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingEncryption.html)
-- [Monitoring tools](https://docs.aws.amazon.com/AmazonS3/latest/userguide/monitoring-automated-manual.html)
-- [Amazon S3 Event Notifications](https://docs.aws.amazon.com/AmazonS3/latest/userguide/NotificationHowTo.html)
+
+<details>
+  <summary>Must Read</summary>
+
+  The following content provides enough info to complete the task.
+
+  <blockquote>
+
+  - [AWS IAM in AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-access-control.html)
+  - [Amazon S3 Storage Classes](https://aws.amazon.com/s3/storage-classes/)
+  - [Managing your storage lifecycle](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html)
+  </blockquote>
+
+</details>
+
+<details>
+  <summary>Additional</summary>
+
+  The following content provides more info for further studies.
+
+  <blockquote>
+
+  - [Protecting data using encryption](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingEncryption.html)
+  - [Monitoring tools](https://docs.aws.amazon.com/AmazonS3/latest/userguide/monitoring-automated-manual.html)
+  - [Amazon S3 Event Notifications](https://docs.aws.amazon.com/AmazonS3/latest/userguide/NotificationHowTo.html)
+  </blockquote>
+
+</details>
 
 # Assignments
 [AWS Simple Storage Service - S3](./task.md)

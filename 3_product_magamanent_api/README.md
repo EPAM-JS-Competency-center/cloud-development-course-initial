@@ -7,31 +7,11 @@ Product Management API
 - Set up an API Gateway and Lambda based architecture
 
 # Topics
-
-## Introduction
-- Get presented with Lambda and EC2 comparison  
-- Learn about Serverless concepts  
-- Get familiar with AWS Lambda and AWS Gateway services
-- Overview Lambda benefits and use cases
-- Get familiar with triggers for Lambda functions and API Gateway
-- Practical Task overview
-
-## Basic Practice
-- Learn how to create simple Lambda function.
-- Understand how to test functions.
-- Be introduced how to use CloudWatch console to read logs.
-
-## Advanced
-- Get an overview of Lambda quotas.
-- Be familiar with Lambda function lifecycle.
-- Understand what cold start means.
-
-## Serverless Framework and Lambda
-- Get an overview of Serverless Framework and its configuration.
-- Find out how to create basic configuration for Node.js app with TypeScript using Serverless CLI
-- Know how to deploy functions and redeploy only needed ones.
-- Be introduced how to make Serverless configuration for Lambda functions with API Gateway as a trigger.
-- Learn how to tie REST API endpoints to Lambda functions using API Gateway.
+- Serverless Overview
+- AWS API Gateway Overview
+- AWS Lambda Overview
+- Usage and Details of AWS Lambda
+- Serverless Framework & AWS Lambda
 
 # Materials
 
@@ -59,15 +39,37 @@ The following content provides more info for further studies.
 - [Top 5 Use Cases For AWS Lambda](https://www.youtube.com/watch?v=K-nnzpgrzwM), ~13 mins
 
 ## Reading
-- [What is AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
-- [Getting started with Lambda](https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html)
-- [AWS Lambda Features](https://aws.amazon.com/lambda/features/)
-- [Best practices for working with AWS Lambda functions](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
-- [AWS Lambda Pricing](https://aws.amazon.com/lambda/pricing/)
-- [AWS Lambda FAQs](https://aws.amazon.com/lambda/faqs/)
-- [What is Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
-- [Amazon API Gateway concepts](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-basic-concept.html)
-- [Tutorial: Build a Hello World REST API with Lambda proxy integration](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-as-simple-proxy-for-lambda.html)
+
+<details>
+  <summary>Must Read</summary>
+
+  The following content provides enough info to complete the task.
+
+  <blockquote>
+
+  - [What is AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
+  - [Getting started with Lambda](https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html)
+  - [AWS Lambda Features](https://aws.amazon.com/lambda/features/)
+  - [AWS Lambda FAQs](https://aws.amazon.com/lambda/faqs/)
+  - [What is Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
+  </blockquote>
+
+</details>
+
+<details>
+  <summary>Additional</summary>
+
+  The following content provides more info for further studies.
+
+  <blockquote>
+
+  - [Best practices for working with AWS Lambda functions](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
+  - [AWS Lambda Pricing](https://aws.amazon.com/lambda/pricing/)
+  - [Amazon API Gateway concepts](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-basic-concept.html)
+  - [Tutorial: Build a Hello World REST API with Lambda proxy integration](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-as-simple-proxy-for-lambda.html)
+  </blockquote>
+
+</details>
 
 # Assignments
 [First API with AWS API Gateway and AWS Lambda](./task.md)
