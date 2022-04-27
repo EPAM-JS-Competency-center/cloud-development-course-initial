@@ -41,14 +41,14 @@ By completing this program a participant will be able to:
 
 This program will have theory and practice on the following topic:
 
-### Module 1 - Cloud Introduction
+### Module 1 - [Cloud Introduction](./1_cloud_introduction/README.md)
 - Fundamental Theory about Cloud Computing
 - Cloud Service Models, Cloud Deployment Models, Infrastructure-as-Code
 - Monolith vs Microservices vs Serverless
 - AWS Intro, Registration, Cloud Watch, IAM
 - Repository structure
 
-### Module 2 - Serve SPA in AWS S3 and Cloudfront Services
+### Module 2 - [Serving SPA](./2_serving_spa/README.md)
 - AWS Simple Storage Service overview
 - Services & Tools overview
 - AWS CloudFront overview
@@ -56,39 +56,40 @@ This program will have theory and practice on the following topic:
 - Serverless Framework overview
 - AWS CLI overview
 
-### Module 3 - First API with AWS API Gateway and AWS Lambda
+### Module 3 - [Serverless API](./3_serverless_api/README.md)
 - AWS Lambda Overview
 - Serverless Framework and Lambda 
 - Introduction to Collecting logs with AWS CloudWatch
 - Lambda Advanced Features and Configuration
 
-### Module 4 - Integration with Database
-- Basic Overview of (R)DBMS structure, data types and features
-- Overview of AWS database offering and supported engines
-- AWS RDS Overview
-- Integrating serverless function with databases
+### Module 4 - [Integration with Database](./4_integration_with_database/README.md)
+- Relational Databases Theory
+- SQL Overview
+- Overview of AWS database offering
+- AWS RDS and its engines
+- Serveless functions & AWS RDS
 
-### Module 5 - Integration with S3
+### Module 5 - [Integration with S3](./5_integration_with_s3/README.md)
 - AWS S3 In-depth Introduction
 - S3 Storage Classes and their Use Cases
 - S3 Access Control & Encryption
 - S3 Versioning, Lifecycle Management & Events
 - Integration with S3 and Lambda Overview
 
-### Module 6 - SQS & SNS, Async Microservices Communication
+### Module 6 - [Async Microservices Communication](./6_async_microservices_communication/README.md)
 - Async Messaging Overview
 - AWS SQS Overview
 - AWS SNS Overview
 - Integration with SQS, SNS and Lambda Overview
 
-### Module 7 - Authorization
+### Module 7 - [Authorization](./7_authorization/README.md)
 - Authentication & Authorization overview
 - Lambda Authorizer & API Gateway
 - AWS Cognito overview
 - Cognito User Pool
 - Cognito Identity Pool
 
-### Module 8 - Docker and AWS Elastic Beanstalk
+### Module 8 - [Containerization](./8_containerization/README.md)
 - Docker overview
 - Dockerfiles & Images
 - Containers & VMs
@@ -96,7 +97,7 @@ This program will have theory and practice on the following topic:
 - AWS Elastic Beanstalk overview
 - AWS EB CLI
 
-### Module 9 - Backend For Frontend
+### Module 9 - [Backend For Frontend](./9_backend_for_frontend/README.md)
 - Backend for Frontend overview
 - BFF as Pattern
 - API Gateway as BFF
