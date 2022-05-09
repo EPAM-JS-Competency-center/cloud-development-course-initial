@@ -40,11 +40,12 @@ Backend For Frontend
 
    <blockquote>
 
-   - [RU Introduction](https://videoportal.epam.com/playlist/OJM9DLJn/play/AaZqxz79), ~1 mins
-   - [RU Theory and concepts](https://videoportal.epam.com/playlist/OJM9DLJn/play/2Jw8GG7M), ~16 mins
-   - [RU Elastic Beanstalk](https://videoportal.epam.com/playlist/OJM9DLJn/play/M7k3qd7p), ~7 mins
-   - [RU Demo](https://videoportal.epam.com/playlist/OJM9DLJn/play/RYpMGwJy), ~15 mins
-   - [RU Questions](https://videoportal.epam.com/playlist/OJM9DLJn/play/oYVqRqa0), ~7 mins
+   - [RU Introduction](https://videoportal.epam.com/video/MRwdYoVdkwMXOOXNa3bL), ~1 mins
+   - [RU Theory and concepts](https://videoportal.epam.com/video/9w0kaE2kl6xxezp5YeLn), ~16 mins
+   - [RU Elastic Beanstalk](https://videoportal.epam.com/video/59pZaAyDzMrVM49yaNzq), ~7 mins
+   - [RU Demo](https://videoportal.epam.com/video/njDdYP6ERkrdkG6872Xb), ~15 mins
+   - [RU Deploy and delete an application with AWS Elastic Beanstalk](https://videoportal.epam.com/video/9w0kaEMkgADoxK5aeLnD), ~55mins
+   - [RU Questions](https://videoportal.epam.com/video/nDBqYL4xgvk00oZdYXER), ~7 mins
    </blockquote>
   </details>
 

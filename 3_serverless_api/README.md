@@ -31,13 +31,13 @@ Serverless API
 
    <blockquote>
 
-   - [AWS Lambda & API Gateway - part 1. Basics](https://videoportal.epam.com/playlist/OJMQ9jJn/play/V7gbyWJ0), ~15 mins
-   - [AWS Lambda & API Gateway - part2. Practice](https://videoportal.epam.com/playlist/OJMQ9jJn/play/y76mOQJ8), ~21 mins
-   - [AWS Lambda & API Gateway - part3 . Practice continued](https://videoportal.epam.com/playlist/OJMQ9jJn/play/qJXKBdYw), ~15 mins
-   - [AWS Lambda & API Gateway - part4. Advanced Lambda](https://videoportal.epam.com/playlist/OJMQ9jJn/play/BYbdB57X), ~11 mins
-   - [AWS Lambda & API Gateway - part 5. Advanced practice](https://videoportal.epam.com/playlist/OJMQ9jJn/play/oYVmMBa0), ~17 mins
-   - [AWS Lambda & API Gateway - part 6. Advanced practice continued](https://videoportal.epam.com/playlist/OJMQ9jJn/play/RY5eyWYo), ~14 mins
-   - [AWS Lambda & API Gateway - part7. Hometask review](https://videoportal.epam.com/playlist/OJMQ9jJn/play/va8KeD71), ~5 mins
+   - [AWS Lambda & API Gateway - part 1. Basics](https://videoportal.epam.com/video/4MNVYj1Exvl0On3Da0eE), ~15 mins
+   - [AWS Lambda & API Gateway - part2. Practice](https://videoportal.epam.com/video/VN2Qa1XWm83E0PQn7kwG), ~21 mins
+   - [AWS Lambda & API Gateway - part3 . Practice continued](https://videoportal.epam.com/video/VKQwJWkPqVXRmRNGJ1EW), ~15 mins
+   - [AWS Lambda & API Gateway - part4. Advanced Lambda](https://videoportal.epam.com/video/oybzJ0oWebWXLqX4Y4dG), ~11 mins
+   - [AWS Lambda & API Gateway - part 5. Advanced practice](https://videoportal.epam.com/video/v0Aba28WRBWvZwejJkz9), ~17 mins
+   - [AWS Lambda & API Gateway - part 6. Advanced practice continued](https://videoportal.epam.com/video/vbdGYloMlrMKpq4naWqy), ~14 mins
+   - [AWS Lambda & API Gateway - part7. Hometask review](https://videoportal.epam.com/video/Dj6qaBMwxW5k1P87gPWA), ~5 mins
    </blockquote>
   </details>
 
@@ -46,11 +46,11 @@ Serverless API
 
    <blockquote>
 
-   - [RU Lambda Intro](https://videoportal.epam.com/playlist/OJM9DLJn/play/GYllynYW), ~20 mins
-   - [RU Basic practice in AWS](https://videoportal.epam.com/playlist/OJM9DLJn/play/jaNq3j76), ~27 mins
-   - [RU Advanced Theory](https://videoportal.epam.com/playlist/OJM9DLJn/play/kaE0wK7e), ~11 mins
-   - [RU How to create Rest API using Serverless framework and Lambda](https://videoportal.epam.com/playlist/OJM9DLJn/play/mYQqE9Yp), ~34 mins
-   - [RU Homework](https://videoportal.epam.com/playlist/OJM9DLJn/play/OJMqxBJn), ~27 mins
+   - [RU Lambda Intro](https://videoportal.epam.com/video/elN67KV30zeZvdl0JVZz), ~20 mins
+   - [RU Basic practice in AWS](https://videoportal.epam.com/video/lNdwY9x6pwOnwgvpay2G), ~27 mins
+   - [RU Advanced Theory](https://videoportal.epam.com/video/XmRlaydwkn94NzNR7jno), ~11 mins
+   - [RU How to create Rest API using Serverless framework and Lambda](https://videoportal.epam.com/video/lNZRYplXNbrx8LA1YyXQ), ~34 mins
+   - [RU Homework](https://videoportal.epam.com/video/9w0kaE2mNwKn6w6GYeLn), ~27 mins
    </blockquote>
   </details>
 
@@ -65,6 +65,7 @@ Serverless API
 
   <blockquote>
 
+  - [How I spent 400$ on lambdas in just one evening ](https://youtu.be/58M6g4BhSxU), ~8mins
   - [AWS Lambda Core Concepts](https://www.youtube.com/watch?v=iUIWG0h2D84), ~7 mins
   - [Introduction to AWS Lambda & Serverless Applications](https://www.youtube.com/watch?v=EBSdyoO3goc), ~56 mins
   - [Building APIs with Amazon API Gateway](https://www.youtube.com/watch?v=XwfpPEFHKtQ), ~43 mins

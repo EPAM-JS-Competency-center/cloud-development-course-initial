@@ -41,13 +41,13 @@ Authorization
 
    <blockquote>
 
-   - [RU Intoduction](https://videoportal.epam.com/playlist/OJM9DLJn/play/qJXqvL7w), ~2 mins
-   - [RU Authorization Process in General](https://videoportal.epam.com/playlist/OJM9DLJn/play/BYb4y87X), ~24 mins
-   - [RU Lambda Authorization](https://videoportal.epam.com/playlist/OJM9DLJn/play/va8lG4a1), ~3 mins
-   - [RU Lambda Authorization Practice](https://videoportal.epam.com/playlist/OJM9DLJn/play/dYPqbQJ2), ~28 mins
-   - [RU Hometask](https://videoportal.epam.com/playlist/OJM9DLJn/play/zJ0eG474), ~16 mins
-   - [RU Cognito Authorization](https://videoportal.epam.com/playlist/OJM9DLJn/play/Qa1mGvak), ~8 mins
-   - [RU Cognito Authorization Practice](https://videoportal.epam.com/playlist/OJM9DLJn/play/ZaDPxlao), ~22 mins
+   - [RU Intoduction](https://videoportal.epam.com/video/vbdGYloE9zAppoZDaWqy), ~2 mins
+   - [RU Authorization Process in General](https://videoportal.epam.com/video/lNdwY9MyyQelBepYy2Gk), ~24 mins
+   - [RU Lambda Authorization](https://videoportal.epam.com/video/njDdYP6E9eQ0o8Vz72Xb), ~3 mins
+   - [RU Lambda Authorization Practice](https://videoportal.epam.com/video/59pZaAyDpPzPmPv6aNzq), ~28 mins
+   - [RU Hometask](https://videoportal.epam.com/video/wPQe73vNZg0qAXW6JAqn), ~16 mins
+   - [RU Cognito Authorization](https://videoportal.epam.com/video/1g5mYRWy2OQNg6jJWoDG), ~8 mins
+   - [RU Cognito Authorization Practice](https://videoportal.epam.com/video/MRwdYoVdbPkXv65Wa3bL), ~22 mins
    </blockquote>
   </details>
 

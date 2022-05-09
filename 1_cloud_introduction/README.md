@@ -32,20 +32,20 @@ Cloud Introduction
 
    <blockquote>
 
-   - [Introduction - part1](https://videoportal.epam.com/playlist/OJMQ9jJn/play/V7rOZnan), ~1 mins
-   - [Introduction - part2](https://videoportal.epam.com/playlist/OJMQ9jJn/play/ba2O0PYk), ~1 mins
-   - [Introduction - part3](https://videoportal.epam.com/playlist/OJMQ9jJn/play/ZaAMA5aN), ~2 mins
-   - [Introduction - part4 - AWS essentials](https://videoportal.epam.com/playlist/OJMQ9jJn/play/BJvmOKYR), ~1 mins
-   - [Introduction - part5](https://videoportal.epam.com/playlist/OJMQ9jJn/play/r7mLPkJN), ~3 mins
-   - [Introduction - part6](https://videoportal.epam.com/playlist/OJMQ9jJn/play/67K1AgYV), ~2 mins
-   - [Introduction - part7 - hometask overview](https://videoportal.epam.com/playlist/OJMQ9jJn/play/Q7zoKMaM), ~3 mins
-   - [Introduction - part8 - SPA boilerplate overview](https://videoportal.epam.com/playlist/OJMQ9jJn/play/dYow1zY3), ~1 mins
-   - [Introduction - part9 - registration in AWS](https://videoportal.epam.com/playlist/OJMQ9jJn/play/L7xKmBJ4), ~2 mins
-   - [Introduction - part10 - registration in AWS](https://videoportal.epam.com/playlist/OJMQ9jJn/play/e73V15JA), ~1 mins
-   - [Introduction - part11 - registration issues overview](https://videoportal.epam.com/playlist/OJMQ9jJn/play/GYlD8wYW), ~1 mins
-   - [Introduction - part12 - AWS support case for registration](https://videoportal.epam.com/playlist/OJMQ9jJn/play/jaNZAwa6), ~1 mins
-   - [Introduction - part13 - configuring budget alert](https://videoportal.epam.com/playlist/OJMQ9jJn/play/kaE6A0Ye), ~4 mins
-   - [Introduction - part14 - IAM and module 1 summary](https://videoportal.epam.com/playlist/OJMQ9jJn/play/mYQpAdap), ~2 mins
+   - [Introduction - part1](https://videoportal.epam.com/video/MNnV7g03KrNAqdMva0b3), ~1 mins
+   - [Introduction - part2](https://videoportal.epam.com/video/4MNVYj1Exvx2dmv5a0eE), ~1 mins
+   - [Introduction - part3](https://videoportal.epam.com/video/gkXbYq1XdKdxNOABYelw), ~2 mins
+   - [Introduction - part4 - AWS essentials](https://videoportal.epam.com/video/VKQwJWkPqVqXRvEqJ1EW), ~1 mins
+   - [Introduction - part5](https://videoportal.epam.com/video/2qOL7xxLPEPGq9dx7483), ~3 mins
+   - [Introduction - part6](https://videoportal.epam.com/video/1g5mYRkg2pyRwK10JWoD), ~2 mins
+   - [Introduction - part7 - hometask overview](https://videoportal.epam.com/video/vbdGYloMlrdgLVXEaWqy), ~3 mins
+   - [Introduction - part8 - SPA boilerplate overview](https://videoportal.epam.com/video/MRwdYoVgQm6A58pZa3bL), ~1 mins
+   - [Introduction - part9 - registration in AWS](https://videoportal.epam.com/video/XmRlaydZ0Qwy5Ex67jno), ~2 mins
+   - [Introduction - part10 - registration in AWS](https://videoportal.epam.com/video/286VYGZzDpKKOr6Eav1E), ~1 mins
+   - [Introduction - part11 - registration issues overview](https://videoportal.epam.com/video/4MNVYj1ExvQ0r3vga0eE), ~1 mins
+   - [Introduction - part12 - AWS support case for registration](https://videoportal.epam.com/video/XmRlaydZ0QwjZ63R7jno), ~1 mins
+   - [Introduction - part13 - configuring budget alert](https://videoportal.epam.com/video/1g5mYRkg2pyD2gdPJWoD), ~4 mins
+   - [Introduction - part14 - IAM and module 1 summary](https://videoportal.epam.com/video/6g2qJXQ0qpbQmQwg7wbz), ~2 mins
    </blockquote>
   </details>
 
@@ -54,9 +54,9 @@ Cloud Introduction
 
    <blockquote>
 
-   - [RU Basic Part](https://videoportal.epam.com/playlist/OJM9DLJn/play/wY9ojQ7y), ~40 mins
-   - [RU Advanced Part](https://videoportal.epam.com/playlist/OJM9DLJn/play/V7r2XK7n), ~20 mins
-   - [RU Practical Part](https://videoportal.epam.com/playlist/OJM9DLJn/play/ba215X7k), ~24 mins
+   - [RU Basic Part](https://videoportal.epam.com/video/lNZRYplXZ6knZbkdYyXQ), ~40 mins
+   - [RU Advanced Part](https://videoportal.epam.com/video/59pZaAyL6Aw1B16laNzq), ~20 mins
+   - [RU Practical Part](https://videoportal.epam.com/video/vbdGYlod08Wg11pbaWqy), ~24 mins
    </blockquote>
   </details>
 

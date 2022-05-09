@@ -33,11 +33,11 @@ Serving SPA in AWS
 
    <blockquote>
 
-   - [AWS Simple storage service (S3) - part1. Introduction](https://videoportal.epam.com/playlist/OJMQ9jJn/play/zJ0kDgY4), ~1 mins
-   - [AWS Simple storage service (S3) - part2. Basic theory](https://videoportal.epam.com/playlist/OJMQ9jJn/play/ZaDgML7o), ~11 mins
-   - [AWS Simple storage service (S3) - part3. Advanced features](https://videoportal.epam.com/playlist/OJMQ9jJn/play/qYLvPE7X), ~13 mins
-   - [Website hosting with S3 and CloudFront - part 1](https://videoportal.epam.com/playlist/OJMQ9jJn/play/L7xKmyJ4), ~4 mins
-   - [Website hosting with S3 and CloudFront - part 2. Using AWS Cloud Development Kit (CDK)](https://videoportal.epam.com/playlist/OJMQ9jJn/play/e73V1MJA), ~5 mins
+   - [AWS Simple storage service (S3) - part1. Introduction](https://videoportal.epam.com/video/GoPjaNyQqBlvyn1d76AN), ~1 mins
+   - [AWS Simple storage service (S3) - part2. Basic theory](https://videoportal.epam.com/video/wPQe73OQkA2XOln7Aqnr), ~11 mins
+   - [AWS Simple storage service (S3) - part3. Advanced features](https://videoportal.epam.com/video/MRwdYoVgQmdAWB84a3bL), ~13 mins
+   - [Website hosting with S3 and CloudFront - part 1](https://videoportal.epam.com/video/lNdwY9xWNBgG96kbay2G), ~4 mins
+   - [Website hosting with S3 and CloudFront - part 2. Using AWS Cloud Development Kit (CDK)](https://videoportal.epam.com/video/59pZaAyWXBDLD29laNzq), ~5 mins
    </blockquote>
   </details>
 
@@ -69,6 +69,7 @@ Serving SPA in AWS
 
   <blockquote>
 
+  - [Free and Easy guide how to host website on AWS Cloud in 5 minutes](https://youtu.be/4AYF_Vo36sU), ~4mins
   - [AWS S3 Core Concepts](https://www.youtube.com/watch?v=tfU0JEZjcsg), 27 mins
   - [AWS S3 Hands-On Tutorial](https://www.youtube.com/watch?v=XGcoeEyt2UM), ~45 mins
   - [AWS CloudFront Hands-On Tutorial](https://www.youtube.com/watch?v=Vr4N_ZA-uGo), ~15 mins
