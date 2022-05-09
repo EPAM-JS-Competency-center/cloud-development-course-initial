@@ -32,10 +32,10 @@ The following content provides enough info to complete the task.
 
    <blockquote>
     
-   - [AWS S3 & Lambda. Practical task overview](https://videoportal.epam.com/playlist/OJMQ9jJn/play/Qa1pLD7k), ~2 mins
-   - [AWS S3 & Lambda - part2. Practice](https://videoportal.epam.com/playlist/OJMQ9jJn/play/AaZoBvY9), ~24 mins
-   - [AWS S3 & Lambda - part3. Serverless configuration](https://videoportal.epam.com/playlist/OJMQ9jJn/play/M7k1BRYp), ~3 mins
-   - [AWS S3 & Lambda - part4. Hometask review](https://videoportal.epam.com/playlist/OJMQ9jJn/play/RYpkBVay), ~5 mins
+   - [AWS S3 & Lambda. Practical task overview](https://videoportal.epam.com/video/lNZRYpl6MR6RAv0dYyXQ), ~2 mins
+   - [AWS S3 & Lambda - part2. Practice](https://videoportal.epam.com/video/G0XV7rxbyzb2Gg1zYnmo), ~24 mins
+   - [AWS S3 & Lambda - part3. Serverless configuration](https://videoportal.epam.com/video/430e7n2yEey0BdwQ76PM), ~3 mins
+   - [AWS S3 & Lambda - part4. Hometask review](https://videoportal.epam.com/video/GoPjaNWobQNQ9o5Y6ANz), ~5 mins
    </blockquote>
   </details>
 
@@ -65,6 +65,7 @@ The following content provides enough info to complete the task.
 
   <blockquote>
 
+  - [Journey to the Cloud - The How](https://youtu.be/meIIRwq5sjc), 49mins
   - [AWS S3 Best Practices](https://www.youtube.com/watch?v=rHeTn9pHNKo), ~62 mins
   - [AWS S3 APIs Walkthrough](https://www.youtube.com/watch?v=AAOJ0BAJVJs), ~22 mins
   - [AWS S3 Lifecycle Rules](https://www.youtube.com/watch?v=CPUjRhrsMiI), ~5 mins

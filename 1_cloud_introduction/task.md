@@ -47,11 +47,7 @@ By the end of the program your application must be able to do:
 
 ### Task 1.4
 
-1.  Register in AWS. You can find the instructions in
-    [Basic Cloud Introduction Lecture](http://videoportal.epam.com/video/lNZRYplXZ6knZbkdYyXQ)  
-    [Advanced Cloud Introduction Lecture](https://videoportal.epam.com/video/59pZaAyL6Aw1B16laNzq)
-    [Practical Cloud Introduction Lecture](https://videoportal.epam.com/video/vbdGYlod08Wg11pbaWqy)
-
+1.  Register in AWS
 2.  Create an IAM user and assign AdministratorAccess policy to it.
 3. Using CLI, connect to your AWS account and get the created IAM user information (example: `aws iam get-user --user-name=MyUser`).
 4. Wait for the next task and announce in a chat and help others in the chat if they have some issues
