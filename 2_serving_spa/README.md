@@ -46,15 +46,15 @@ Serving SPA in AWS
 
    <blockquote>
 
-   - [RU Intoduction](https://videoportal.epam.com/playlist/OJM9DLJn/play/lay0QP7j), ~3 mins
-   - [RU S3 Intro](https://videoportal.epam.com/playlist/OJM9DLJn/play/V7gKrW70), ~2 mins
-   - [RU CloudFront Intro](https://videoportal.epam.com/playlist/OJM9DLJn/play/y76xEQY8), ~4 mins
-   - [RU Serverless Framework Intro](https://videoportal.epam.com/playlist/OJM9DLJn/play/qJXqRd7w), ~2 mins
-   - [RU Manual Deployment to S3](https://videoportal.epam.com/playlist/OJM9DLJn/play/dYPqg8J2), ~16 mins
-   - [RU Deploy to S3 with serverless](https://videoportal.epam.com/playlist/OJM9DLJn/play/Qa1moDak), ~32 mins
-   - [RU AWS CLI Intro](https://videoportal.epam.com/playlist/OJM9DLJn/play/zJ0ezg74), ~1 mins
-   - [RU Serverless & CloudFront](https://videoportal.epam.com/playlist/OJM9DLJn/play/ZaDPKLao), ~20 mins
-   - [RU Homework](https://videoportal.epam.com/playlist/OJM9DLJn/play/AaZqzv79), ~3 mins
+   - [RU Intoduction](https://videoportal.epam.com/video/1g5mYRkyL8KMd4oPJWoD), ~3 mins
+   - [RU S3 Intro](https://videoportal.epam.com/video/wPQe73vEnLBglxqOJAqn), ~2 mins
+   - [RU CloudFront Intro](https://videoportal.epam.com/video/MNnV7g033NDoBklWa0b3), ~4 mins
+   - [RU Serverless Framework Intro](https://videoportal.epam.com/video/4MNVYj1EEMm3Lgv5a0eE), ~2 mins
+   - [RU Manual Deployment to S3](https://videoportal.epam.com/video/MRwdYoVggXxDNDr4a3bL), ~16 mins
+   - [RU Deploy to S3 with serverless](https://videoportal.epam.com/video/elN67KVllzb99gb3JVZz), ~32 mins
+   - [RU AWS CLI Intro](https://videoportal.epam.com/video/Dj6qaB2WWGqqk06ragPW), ~1 mins
+   - [RU Serverless & CloudFront](https://videoportal.epam.com/video/B9Ry76DWWwVng509Y8xq), ~20 mins
+   - [RU Homework](https://videoportal.epam.com/video/Vr9Q7zywwrmgVG9mJMpG), ~3 mins
    </blockquote>
   </details>
 
