@@ -44,13 +44,13 @@ The following content provides enough info to complete the task.
 
    <blockquote>
 
-   - [RU Intoduction](https://videoportal.epam.com/playlist/OJM9DLJn/play/mYR2XAYW), ~1 mins
-   - [RU Task and Lecture Goal](https://videoportal.epam.com/playlist/OJM9DLJn/play/67KqE8YV), ~2 mins
-   - [RU Basic Theory](https://videoportal.epam.com/playlist/OJM9DLJn/play/Q7z1goJM), ~13 mins
-   - [RU Theory of S3 Advanced Features](https://videoportal.epam.com/playlist/OJM9DLJn/play/dYoQzW73), ~15 mins
-   - [RU Live Practice](https://videoportal.epam.com/playlist/OJM9DLJn/play/L7xPdy74), ~30 mins
-   - [RU Needed configurations (Serverless configuration)](https://videoportal.epam.com/playlist/OJM9DLJn/play/e73K3M7A), ~3 mins
-   - [RU Homework](https://videoportal.epam.com/playlist/OJM9DLJn/play/GYllvNYW), ~8 mins
+   - [RU Intoduction](https://videoportal.epam.com/video/PoBNYOZMMlgLxBjma4Gn), ~1 mins
+   - [RU Task and Lecture Goal](https://videoportal.epam.com/video/GoPjaNyQQ34eo3vj76AN), ~2 mins
+   - [RU Basic Theory](https://videoportal.epam.com/video/elN67KVllz52pyOmJVZz), ~13 mins
+   - [RU Theory of S3 Advanced Features](https://videoportal.epam.com/video/9w0kaEMOOprd0b2aeLnD), ~15 mins
+   - [RU Live Practice](https://videoportal.epam.com/video/zXWOJMdEEx1Aqxw2YnDv), ~30 mins
+   - [RU Needed configurations (Serverless configuration)](https://videoportal.epam.com/video/elN67KVllz5K2PomJVZz), ~3 mins
+   - [RU Homework](https://videoportal.epam.com/video/qQB2JwKWWZ1QvyGJMwGk), ~8 mins
    </blockquote>
   </details>
 
