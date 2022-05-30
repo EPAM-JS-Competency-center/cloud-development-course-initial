@@ -38,6 +38,14 @@ _NOTE: Don't forget to add dynamic product representation on FE side._
 3. The response from the lambda should be 1 searched product from an array of products (mock data should be used - this mock data should be stored in Product Service).
 4. This endpoint is not needed to be integrated with Frontend right now.
 
+### Task 3.3
+
+**Save your work (for Rolling Scopes Application only)**
+
+1. Commit all your work to separate branch (e.g. `task-3`) in your own repository.
+2. Create a pull request to the `master` branch.
+3. Submit link to the pull request to Crosscheck page in [RS App](https://app.rs.school).
+
 ## Evaluation criteria (each mark includes previous mark criteria)
 
 ---
@@ -78,6 +86,6 @@ The follwoing should be present in PR's description field:
 ```
 
 2. Link to product-service API - .....
-3. LInk to FE PR (YOUR OWN REPOSITORY) - ...
+3. Link to FE PR (YOUR OWN REPOSITORY) - ...
 
 4. In case SWAGGER file is not provided - please provide product schema in PR description
