@@ -73,7 +73,7 @@ Reviewers (for Rolling Scopes Application only) should verify the lambda functio
 
 ---
 
-The follwoing should be present in PR's description field:
+The following should be present in PR's description field:
 
 1. What was done?
 
