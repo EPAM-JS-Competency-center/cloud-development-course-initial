@@ -55,7 +55,7 @@ Reviewers (for Rolling Scopes Application only) should verify the lambda functio
 - **1** - Product-service serverless config contains configuration for 2 lambda functions, API is not working at all, but YAML configuration is correct
 - **2** - The getProductsList OR getProductsById lambda function returns a correct response (POINT1)
 - **3** - The getProductsById AND getProductsList lambda functions return a correct response code (POINT2)
-- **4** - Your own Frontend application is integrated with product service (/products API) and products from product-service are represented on Frontend. AND POINT1 and POINT2 are done.
+- **4** - Your own Frontend application is integrated with product service (`/products` API) and products from product-service are represented on Frontend. AND POINT1 and POINT2 are done.
 
 ## Additional (optional) tasks
 
@@ -66,14 +66,14 @@ Reviewers (for Rolling Scopes Application only) should verify the lambda functio
 - **+1** - Webpack is configured for product-service
 - **+1** **(All languages)** - SWAGGER documentation is created for product-service
 - **+1** **(All languages)** - Lambda handlers are covered by basic UNIT tests (NO infrastructure logic is needed to be covered)
-- **+1** **(All languages)** - Lambda handlers (getProductsList, getProductsById) code is written not in 1 single module (file) and separated in codebase.
+- **+1** **(All languages)** - Lambda handlers (`getProductsList`, `getProductsById`) code is written not in 1 single module (file) and separated in codebase.
 - **+1** **(All languages)** - Main error scenarious are handled by API ("Product not found" error).
 
 ## Description Teamplate for PRs (for Rolling Scopes Application only)
 
 ---
 
-The follwoing should be present in PR's description field:
+The following should be present in PR's description field:
 
 1. What was done?
 
