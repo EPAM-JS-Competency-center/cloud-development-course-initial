@@ -111,7 +111,7 @@ Reviewers should verify the lambda functions by invoking them through provided U
 - **+1** **(All languages)** - All lambdas do `console.log` for each incoming requests and their arguments
 - **+1** **(All languages)** - Transaction based creation of product (in case stock creation is failed then related to this stock product is not created and not ready to be used by the end user and vice versa) (https://devcenter.kinvey.com/nodejs/tutorials/bl-transactional-support)
 
-## Description Teamplate for PRs (for Rolling Scopes Application only)
+## Description Template for PRs (for Rolling Scopes Application only)
 
 ---
 
