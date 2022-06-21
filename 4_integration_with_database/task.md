@@ -81,7 +81,7 @@ Integrate GET/products/{productId} lambda to return a product from the database
 
 Implement POST/products lambda and implement its logic so it will be creating a new item in a products table.
 
-Save the URL (API Gateway URL) to execute the implemented lambda functions for later - you'll eed to provide it in the PR (e.g in PR's description) when submitting the task.
+Save the URL (API Gateway URL) to execute the implemented lambda functions for later - you'll need to provide it in the PR (e.g in PR's description) when submitting the task.
 
 ### Task 4.4
 
