@@ -42,14 +42,14 @@ Containerization
 
    <blockquote>
 
-   - [RU Introduction](https://videoportal.epam.com/playlist/OJM9DLJn/play/e73KGg7A), ~3 mins
-   - [RU Docker is for Everyone](https://videoportal.epam.com/playlist/OJM9DLJn/play/GYllGnYW), ~6 mins
-   - [RU Docker Ecosystem](https://videoportal.epam.com/playlist/OJM9DLJn/play/jaNq6j76), ~32 mins
-   - [RU Advanced Dockerfile Techniques](https://videoportal.epam.com/playlist/OJM9DLJn/play/OJMqgBJn), ~12 mins
-   - [RU Dockerizing a Simple Application](https://videoportal.epam.com/playlist/OJM9DLJn/play/rJde617Q), ~3 mins
-   - [RU Introduction to AWS Elastic Beanstalk](https://videoportal.epam.com/playlist/OJM9DLJn/play/lay0267j), ~6 mins
-   - [RU Deploy and Delete an Application with AWS Elastic Beanstalk](https://videoportal.epam.com/playlist/OJM9DLJn/play/V7gK8D70), ~55 mins
-   - [RU Homework](https://videoportal.epam.com/playlist/OJM9DLJn/play/y76xGVY8), ~6 mins
+   - [RU Introduction](https://videoportal.epam.com/video/zXWOJMdEVE9OVpbkYnDv), ~3 mins
+   - [RU Docker is for Everyone](https://videoportal.epam.com/video/PoBNYOZMnM5nZ4Rra4Gn), ~6 mins
+   - [RU Docker Ecosystem](https://videoportal.epam.com/video/nDBqYL4NON01E6OxYXER), ~32 mins
+   - [RU Advanced Dockerfile Techniques](https://videoportal.epam.com/video/elN67KVlplQ5q6lWJVZz), ~12 mins
+   - [RU Dockerizing a Simple Application](https://videoportal.epam.com/video/4MNVYj1EbEd099b1a0eE), ~3 mins
+   - [RU Introduction to AWS Elastic Beanstalk](https://videoportal.epam.com/video/lNdwY9xWEWK3R5jQay2G), ~6 mins
+   - [RU Deploy and Delete an Application with AWS Elastic Beanstalk](https://videoportal.epam.com/video/9w0kaEMkgADoxK5aeLnD), ~55 mins
+   - [RU Homework](https://videoportal.epam.com/video/430e7n2y1y9LEbQX76PM), ~6 mins
    </blockquote>
   </details>
 
