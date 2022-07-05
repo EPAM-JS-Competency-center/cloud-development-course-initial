@@ -88,6 +88,9 @@ Serverless API
   - [AWS Lambda Features](https://aws.amazon.com/lambda/features/)
   - [AWS Lambda FAQs](https://aws.amazon.com/lambda/faqs/)
   - [What is Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
+  - [Serverless Framework: Deploying to AWS](https://www.serverless.com/framework/docs/providers/aws/guide/deploying)
+  - [Serverless Framework: AWS Lambda Functions](https://www.serverless.com/framework/docs/providers/aws/guide/functions)
+  - [Serverless Framework: AWS Lambda Events](https://www.serverless.com/framework/docs/providers/aws/guide/events)
   </blockquote>
 
 </details>
@@ -103,6 +106,7 @@ Serverless API
   - [AWS Lambda Pricing](https://aws.amazon.com/lambda/pricing/)
   - [Amazon API Gateway concepts](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-basic-concept.html)
   - [Tutorial: Build a Hello World REST API with Lambda proxy integration](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-as-simple-proxy-for-lambda.html)
+  - [Serverless.yml Reference](https://www.serverless.com/framework/docs/providers/aws/guide/serverless.yml)
   </blockquote>
 
 </details>

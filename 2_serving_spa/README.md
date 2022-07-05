@@ -74,6 +74,7 @@ Serving SPA in AWS
   - [AWS S3 Hands-On Tutorial](https://www.youtube.com/watch?v=XGcoeEyt2UM), ~45 mins
   - [AWS CloudFront Hands-On Tutorial](https://www.youtube.com/watch?v=Vr4N_ZA-uGo), ~15 mins
   - [React App on AWS S3 with Static Hosting + Cloudfront](https://www.youtube.com/watch?v=mls8tiiI3uc), ~35 mins
+  - [Getting Started with Serverless Framework](https://www.youtube.com/watch?v=KQRGM9_eqIw), ~20mins
   </blockquote>
 
 </details>
@@ -90,6 +91,8 @@ Serving SPA in AWS
   - [What is Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
   - [Getting started with Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/GetStartedWithS3.html)
   - [AWS S3 FAQs](https://aws.amazon.com/s3/faqs/)
+  - [Setting Up Serverless Framework With AWS](https://www.serverless.com/framework/docs/getting-started)
+  - [Serverless Framework Concepts](https://www.serverless.com/framework/docs/providers/aws/guide/intro)
   </blockquote>
 
 </details>
@@ -103,6 +106,7 @@ Serving SPA in AWS
 
   - [Tutorial: Configuring a static website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html)
   - [What AWS service should you use to publish a web site](https://adrianhall.github.io/cloud/2019/01/31/which-aws-service-for-hosting/)
+  - [Tutorial: Your First Serverless Framework Project](https://www.serverless.com/framework/docs/tutorial)
   </blockquote>
 
 </details>
