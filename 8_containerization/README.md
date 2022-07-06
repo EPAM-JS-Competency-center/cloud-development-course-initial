@@ -97,6 +97,7 @@ Containerization
 
   - [Configuring your development machine for use with Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/chapter-devenv.html)
   - [Learning Containers From The Bottom Up](https://iximiuz.com/en/posts/container-learning-path/)
+  - [Web application Development with AWS Elastic Beanstalk](https://aws-elastic-beanstalk-webapp.workshop.aws)
   </blockquote>
 
 </details>

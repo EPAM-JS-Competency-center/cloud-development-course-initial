@@ -66,6 +66,7 @@ Authorization
   - [Secure your API Gateway with Lambda Authorizer](https://www.youtube.com/watch?v=al5I9v5Y-kA), ~25 mins
   - [Beyond authentication: Guide to secure Amazon Cognito applications](https://www.youtube.com/watch?v=QDR-pX7Ho8k), ~26 mins
   - [Fine-grained Access Control with Amazon Cognito Identity Pools](https://www.youtube.com/watch?v=tAUmz94O2Qo), ~20 mins
+  - [Serverless Authentication and Authorization](https://www.youtube.com/watch?v=VZqG7HjT2AQ), 53mins
   </blockquote>
 
 </details>

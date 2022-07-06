@@ -108,6 +108,7 @@ Cloud Introduction
   - [Policies and permissions in IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html)
   - [AWS IAM FAQs](https://aws.amazon.com/iam/faqs/)
   - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
+  - [Named profiles for the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)
   </blockquote>
 
 </details>
