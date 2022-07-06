@@ -107,6 +107,8 @@ Serving SPA in AWS
   - [Tutorial: Configuring a static website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html)
   - [What AWS service should you use to publish a web site](https://adrianhall.github.io/cloud/2019/01/31/which-aws-service-for-hosting/)
   - [Tutorial: Your First Serverless Framework Project](https://www.serverless.com/framework/docs/tutorial)
+  - [AWS S3 Buckets Overview](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingBucket.html)
+  - [Pseudo Parameters Reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
   </blockquote>
 
 </details>

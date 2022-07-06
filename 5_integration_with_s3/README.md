@@ -106,6 +106,7 @@ The following content provides enough info to complete the task.
   - [Protecting data using encryption](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingEncryption.html)
   - [Monitoring tools](https://docs.aws.amazon.com/AmazonS3/latest/userguide/monitoring-automated-manual.html)
   - [Amazon S3 Event Notifications](https://docs.aws.amazon.com/AmazonS3/latest/userguide/NotificationHowTo.html)
+  - [AWS S3 and CORS](https://docs.aws.amazon.com/AmazonS3/latest/userguide/cors.html)
   - [Generating a presigned URL to upload an object](https://docs.aws.amazon.com/AmazonS3/latest/userguide/PresignedUrlUploadObject.html)
   </blockquote>
 

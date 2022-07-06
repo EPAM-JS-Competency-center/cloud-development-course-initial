@@ -106,6 +106,8 @@ Serverless API
   - [AWS Lambda Pricing](https://aws.amazon.com/lambda/pricing/)
   - [Amazon API Gateway concepts](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-basic-concept.html)
   - [Tutorial: Build a Hello World REST API with Lambda proxy integration](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-as-simple-proxy-for-lambda.html)
+  - [Enabling CORS for a REST API resource](https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors.html)
+  - [Serverless Framework: CORS and API Gateway Survival Guide](https://www.serverless.com/blog/cors-api-gateway-survival-guide)
   - [Serverless.yml Reference](https://www.serverless.com/framework/docs/providers/aws/guide/serverless.yml)
   </blockquote>
 
