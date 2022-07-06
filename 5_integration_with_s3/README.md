@@ -70,6 +70,9 @@ The following content provides enough info to complete the task.
   - [AWS S3 APIs Walkthrough](https://www.youtube.com/watch?v=AAOJ0BAJVJs), ~22 mins
   - [AWS S3 Lifecycle Rules](https://www.youtube.com/watch?v=CPUjRhrsMiI), ~5 mins
   - [Deep dive on Amazon S3](https://www.youtube.com/watch?v=FJJxcwSfWYg), ~47 mins
+  - [AWS S3 File Upload + Lambda Trigger Tutorial](https://www.youtube.com/watch?v=OJrxbr9ebDE), 13mins
+  - [AWS S3 Signed URL Visual Explanation](https://www.youtube.com/watch?v=cog0r-PvGM4), 6mins
+  - [Serverless Framework and AWS S3 Signed URL with](https://www.youtube.com/watch?v=rIQM30rz_0c), 16mins
 </blockquote>
 
 </details>
@@ -86,6 +89,8 @@ The following content provides enough info to complete the task.
   - [AWS IAM in AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-access-control.html)
   - [Amazon S3 Storage Classes](https://aws.amazon.com/s3/storage-classes/)
   - [Managing your storage lifecycle](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html)
+  - [Tutorial: Transforming data for your application with S3 Object Lambda](https://docs.aws.amazon.com/AmazonS3/latest/userguide/tutorial-s3-object-lambda-uppercase.html)
+  - [Using presigned URLs](https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-presigned-url.html)
   </blockquote>
 
 </details>
@@ -97,9 +102,11 @@ The following content provides enough info to complete the task.
 
   <blockquote>
 
+  - [Security Best Practices](https://docs.aws.amazon.com/AmazonS3/latest/userguide/security-best-practices.html)
   - [Protecting data using encryption](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingEncryption.html)
   - [Monitoring tools](https://docs.aws.amazon.com/AmazonS3/latest/userguide/monitoring-automated-manual.html)
   - [Amazon S3 Event Notifications](https://docs.aws.amazon.com/AmazonS3/latest/userguide/NotificationHowTo.html)
+  - [Generating a presigned URL to upload an object](https://docs.aws.amazon.com/AmazonS3/latest/userguide/PresignedUrlUploadObject.html)
   </blockquote>
 
 </details>
