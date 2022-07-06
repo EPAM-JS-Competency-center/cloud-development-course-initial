@@ -30,7 +30,7 @@ Update the **importFileParser** lambda function (**TASK 5**) to send each CSV re
 Create an SNS topic **createProductTopic** and email subscription in the resources section in **serverless.yml**.
 Update the **catalogBatchProcess** lambda function to send an email once it creates products.
 
-### Task 6.3
+### Task 6.4
 
 **Save your work (for Rolling Scopes Application only)**
 
