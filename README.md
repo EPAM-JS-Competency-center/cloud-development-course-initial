@@ -37,9 +37,13 @@ By completing this program a participant will be able to:
 2. Get hands-on experience with AWS (S3, SNS, SQS, and so on) and NodeJS
 3. Obtain intermediate knowledge about micro-service architecture, serverless architecture, etc.
 
+## Course Architecture
+
+This program covers a wide range of topics according to the following [architecture](./Architecture.pdf).
+
 ## Course Curriculum
 
-This program will have theory and practice on the following topic:
+This program will have theory and practice on the following topics:
 
 ### Module 1 - [Cloud Introduction](./1_cloud_introduction/README.md)
 - Fundamental Theory about Cloud Computing
