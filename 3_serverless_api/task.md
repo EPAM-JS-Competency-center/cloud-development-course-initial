@@ -68,7 +68,7 @@ Reviewers should verify the lambda functions by invoking them through provided U
 
 - **+1** - Async/await is used in lambda functions
 - **+1** - ES6 modules are used for Product Service implementation
-- **+1** - Webpack is configured for Product Service
+- **+1** - Custom Webpack/ESBuild/etc is manually configured for Product Service. Not applicable for preconfigured/built-in bundlers that come with templates, plugins, etc. 
 - **+1** **(All languages)** - SWAGGER documentation is created for Product Service
 - **+1** **(All languages)** - Lambda handlers are covered by basic UNIT tests (NO infrastructure logic is needed to be covered)
 - **+1** **(All languages)** - Lambda handlers (`getProductsList`, `getProductsById`) code is written not in 1 single module (file) and separated in codebase.
