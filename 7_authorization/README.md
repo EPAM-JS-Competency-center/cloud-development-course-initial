@@ -41,7 +41,7 @@ Authorization
 
    <blockquote>
 
-   - [RU Intoduction](https://videoportal.epam.com/video/vbdGYloE9zAppoZDaWqy), ~2 mins
+   - [RU Introduction](https://videoportal.epam.com/video/vbdGYloE9zAppoZDaWqy), ~2 mins
    - [RU Authorization Process in General](https://videoportal.epam.com/video/lNdwY9MyyQelBepYy2Gk), ~24 mins
    - [RU Lambda Authorization](https://videoportal.epam.com/video/njDdYP6E9eQ0o8Vz72Xb), ~3 mins
    - [RU Lambda Authorization Practice](https://videoportal.epam.com/video/59pZaAyDpPzPmPv6aNzq), ~28 mins

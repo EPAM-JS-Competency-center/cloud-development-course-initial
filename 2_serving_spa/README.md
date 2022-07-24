@@ -46,7 +46,7 @@ Serving SPA in AWS
 
    <blockquote>
 
-   - [RU Intoduction](https://videoportal.epam.com/video/1g5mYRkyL8KMd4oPJWoD), ~3 mins
+   - [RU Introduction](https://videoportal.epam.com/video/1g5mYRkyL8KMd4oPJWoD), ~3 mins
    - [RU S3 Intro](https://videoportal.epam.com/video/wPQe73vEnLBglxqOJAqn), ~2 mins
    - [RU CloudFront Intro](https://videoportal.epam.com/video/MNnV7g033NDoBklWa0b3), ~4 mins
    - [RU Serverless Framework Intro](https://videoportal.epam.com/video/4MNVYj1EEMm3Lgv5a0eE), ~2 mins
