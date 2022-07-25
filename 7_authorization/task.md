@@ -42,7 +42,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 ```
 
 - `{yours_github_account_login}` - your GitHub account name. Login for test user should be your GitHub account name
-- `TEST_PASSWORD` - password string. Password for test user must be «TEST_PASSWORD»
+- `TEST_PASSWORD` - password string. Password for test user must be "TEST_PASSWORD"
 - example: `johndoe=TEST_PASSWORD`
 
 3. This `basicAuthorizer` lambda should take _Basic Authorization_ token, decode it and check that credentials provided by token exist in the lambda environment variable.
@@ -71,7 +71,11 @@ _NOTE: Do not send your credentials to the GitHub. Use `.env` file and `serverle
 - `{authorization_token}` is a base64-encoded `{yours_github_account_login}:TEST_PASSWORD`
 - example: `Authorization: Basic sGLzdRxvZmw0ZXs0UGFzcw==`
 
-2. Client should get `authorization_token` value from browser localStorage
+2. Client should get `authorization_token` value from browser [localStorage](https://developer.mozilla.org/ru/docs/Web/API/Window/localStorage)
+
+```
+  const authorization_token = localStorage.getItem('authorization_token')
+```
 
 ### Task 7.4
 
@@ -87,8 +91,7 @@ Provide your reviewers with the link to the repo, client application and URLs to
 
 - **1** - `authorization-service` is added to the repo, has correct `basicAuthorizer` lambda and correct `serverless.yaml` file
 - **3** - Import Service `serverless.yaml` file has authorizer configuration for the `importProductsFile` lambda. Request to the `importProductsFile` lambda should work only with correct `authorization_token` being decoded and checked by `basicAuthorizer` lambda. Response should be in 403 HTTP status if access is denied for this user (invalid `authorization_token`) and in 401 HTTP status if Authorization header is not provided.
-- **5** - update client application to send Authorization: Basic `authorization_token` header on import. Client should get `authorization_token` value from browser [localStorage](https://developer.mozilla.org/ru/docs/Web/API/Window/localStorage)
-  `const authorization_token = localStorage.getItem('authorization_token')`
+- **5** - Client application is updated to send "Authorization: Basic `authorization_token`" header on import. Client should get `authorization_token` value from browser [localStorage](https://developer.mozilla.org/ru/docs/Web/API/Window/localStorage)
 
 ## Additional (optional) tasks
 

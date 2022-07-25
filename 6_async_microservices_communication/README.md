@@ -40,8 +40,8 @@ SQS & SNS, Async Microservices Communication
 
    <blockquote>
 
-   - [RU Message Queue Intoduction](https://videoportal.epam.com/video/VKQwJWkXoMG6yEL3J1EW), ~11 mins
-   - [RU SQS Intoduction](https://videoportal.epam.com/video/Vr9Q7zyL5l9KA4KmJMpG), ~11 mins
+   - [RU Message Queue Introduction](https://videoportal.epam.com/video/VKQwJWkXoMG6yEL3J1EW), ~11 mins
+   - [RU SQS Introduction](https://videoportal.epam.com/video/Vr9Q7zyL5l9KA4KmJMpG), ~11 mins
    - [RU Basic Practice (manual integration)](https://videoportal.epam.com/video/MRwdYoVdZ9pEN09Da3bL), ~18 mins
    - [RU Practice (Using Serverless framework)](https://videoportal.epam.com/video/zXWOJMd35Dj9NgnLYnDv), ~29 mins
    - [RU Homework](https://videoportal.epam.com/video/Vr9Q7zyL5lMAWMV8JMpG), ~6 mins

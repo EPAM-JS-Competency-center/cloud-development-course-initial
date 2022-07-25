@@ -6,7 +6,7 @@
 
 - The task is a continuation of Homework 8
 - The task should be done in the backend repo - the same repo with `product-service` and `import-service` services
-- Product Service` and Cart Service services should exist and work in your application
+- Product Service and Cart Service services should exist and work in your application
 
 ## Architecture
 
@@ -51,7 +51,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 - Make a new request to the needed service using the appropriate `method` and `recipientURL`
 - BFF Service should return the result of the recipient’s request
 
-4. If BFF Service cannot find `recipientURL` by the `{recipient-service-name}`, return a 'Cannot process request’ error message with status 502.
+4. If BFF Service cannot find `recipientURL` by the `{recipient-service-name}`, return a "Cannot process request" error message with status 502.
 5. BFF Service should return the same status code and error message that the recipient service returns to the BFF Service in case of any error on the recipient service side.
 
 ### Task 9.2

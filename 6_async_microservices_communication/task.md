@@ -28,7 +28,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 1. Create a lambda function called `catalogBatchProcess` under the same Serverless config file (i.e. `serverless.yaml`) of the Product Service which will be triggered by an SQS event.
 2. Create an SQS queue called `catalogItemsQueue`, in the resources section of the same `serverless.yml` file.
-3. Configure the SQS to trigger lambda `catalogBatchProcess` with 5 messages at once via `batchSize` property.
+3. Configure the SQS to trigger lambda `catalogBatchProcess` with _5 messages_ at once via `batchSize` property.
 4. The lambda function should iterate over all SQS messages and create corresponding products in the products table.
 
 ### Task 6.2

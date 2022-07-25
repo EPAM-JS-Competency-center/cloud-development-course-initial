@@ -67,7 +67,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 Reviewers should verify the lambda functions by invoking them through provided URLs.
 
-- **1** - File `serverless.yml` contains configuration for `importProductsFile function
+- **1** - File `serverless.yml` contains configuration for `importProductsFile` function
 - **3** - The `importProductsFile` lambda function returns a correct response which can be used to upload a file into the S3 bucket
 - **4** - Frontend application is integrated with `importProductsFile` lambda
 - **5** - The `importFileParser` lambda function is implemented and `serverless.yml` contains configuration for the lambda

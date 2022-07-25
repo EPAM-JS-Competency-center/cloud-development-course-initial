@@ -44,7 +44,7 @@ The following content provides enough info to complete the task.
 
    <blockquote>
 
-   - [RU Intoduction](https://videoportal.epam.com/video/PoBNYOZMMlgLxBjma4Gn), ~1 mins
+   - [RU Introduction](https://videoportal.epam.com/video/PoBNYOZMMlgLxBjma4Gn), ~1 mins
    - [RU Task and Lecture Goal](https://videoportal.epam.com/video/GoPjaNyQQ34eo3vj76AN), ~2 mins
    - [RU Basic Theory](https://videoportal.epam.com/video/elN67KVllz52pyOmJVZz), ~13 mins
    - [RU Theory of S3 Advanced Features](https://videoportal.epam.com/video/9w0kaEMOOprd0b2aeLnD), ~15 mins
