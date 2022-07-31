@@ -50,8 +50,8 @@ Find the entire program architecture: [here](../Architecture.pdf).
 1. Prepare Cart Service infrastructure with Elastic Beanstalk.
 
 - **Use** a `Dockerfile` from previous subtask to deploy your Cart Service using AWS Beanstalk CLI.
-- **Initiate** an Elastic Beanstalk application using the `eb init command`. Application name must follow the following convention `{yours_github_account_login}-cart-api`.
-- **Create** a new environment using the `eb create` command. An environment name must be short _but not less then four signs_ (e.g _develop_, _test_, _prod_, etc). Use the `_--cname_` option `{yours_github_account_login}-cart-api-{environment_name}` so that Elastic Beanstalk will use it to create a proper domain name. Use the `--singe` option to not use any Load Balancer for this environment.
+- **Initiate** an Elastic Beanstalk application using the `eb init` command. Application name must follow the following convention `{yours_github_account_login}-cart-api`.
+- **Create** a new environment using the `eb create` command. An environment name must be short _but not less then four signs_ (e.g _develop_, _test_, _prod_, etc). Use the `--cname` option `{yours_github_account_login}-cart-api-{environment_name}` so that Elastic Beanstalk will use it to create a proper domain name. Use the `--single` option to not use any Load Balancer for this environment.
 
 2. Deploy Cart Service with Elastic Beanstalk
 
