@@ -66,7 +66,7 @@ This program will have theory and practice on the following topics:
 - Introduction to Collecting logs with AWS CloudWatch
 - Lambda Advanced Features and Configuration
 
-### Module 4 - [Integration with Database](./4_integration_with_database/README.md)
+### Module 4 - [Integration with Database](4_integration_with_nosql_database/README.md)
 - Relational Databases Theory
 - SQL Overview
 - Overview of AWS database offering
@@ -93,7 +93,7 @@ This program will have theory and practice on the following topics:
 - Cognito User Pool
 - Cognito Identity Pool
 
-### Module 8 - [Containerization](./8_containerization/README.md)
+### Module 8 - [Containerization](9_containerization/README.md)
 - Docker overview
 - Dockerfiles & Images
 - Containers & VMs
@@ -101,7 +101,7 @@ This program will have theory and practice on the following topics:
 - AWS Elastic Beanstalk overview
 - AWS EB CLI
 
-### Module 9 - [Backend For Frontend](./9_backend_for_frontend/README.md)
+### Module 9 - [Backend For Frontend](10_backend_for_frontend/README.md)
 - Backend for Frontend overview
 - BFF as Pattern
 - API Gateway as BFF
