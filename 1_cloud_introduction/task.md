@@ -21,7 +21,7 @@ By the end of the program your application must be able to do:
 
 1. Find our communication channel
 
-- If you're coming from Rolling Scopes Scholl - use Discord
+- If you're coming from Rolling Scopes School - use Discord
 - If you're coming from EPAM internal program - use MS Teams
 
 2. Join our communication channel
