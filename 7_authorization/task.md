@@ -103,7 +103,7 @@ _NOTE: Recommended for personal growth and further interviews, but this part wou
 - **Just Practice, No Evaluation** - Add Login page and protect `getProductsList` lambda by the Cognito Authorizer
   - Create Cognito User Pool using a demo from the lecture. Leave `email` in a list of standard required attributes. Checkbox `Allow users to sign themselves up` should be checked. Also, set `email` as an attribute that you want to verify.
   - Add `App Client` to the User Pool
-  - In the `App Client Settings` section select all `Identity Providers`. Fill the `Callback URL(s)` field with your Client Application URL (i.e. `http://localhost:3000/`). Allow only `Implicit grant` OAuth Flow. Allow all `OAuth Scopes`
+  - In the `App Client Settings` section select all `Identity Providers`. Fill the `Callback URL(s)` field with your Client Application URL (i.e. `http://localhost:3000/`). Allow only `Authorization code grant` OAuth Flow. Allow all `OAuth Scopes`
   - Create Domain name
   - After all of these manipulations, you can open your `Login Page` by clicking on the `Launch Hosted UI` link in the `App Client Settings`
   - Provide this link to your reviewers. The reviewer can just confirm that everything works for him too.
