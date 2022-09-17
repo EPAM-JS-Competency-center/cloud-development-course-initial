@@ -1,6 +1,4 @@
-# Title
-
-Containerization
+# Containerization
 
 # Goal
 

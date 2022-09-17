@@ -1,6 +1,4 @@
-# Title
-
-Integration with RDS
+# Integration with RDS
 
 # Goal
  

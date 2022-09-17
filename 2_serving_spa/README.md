@@ -1,6 +1,4 @@
-# Title
-
-Serving SPA in AWS
+# Serving SPA in AWS
 
 # Goal
 

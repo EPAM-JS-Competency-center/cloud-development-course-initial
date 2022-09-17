@@ -1,6 +1,4 @@
-# Title
-
-Serverless API
+# Serverless API
 
 # Goal
 

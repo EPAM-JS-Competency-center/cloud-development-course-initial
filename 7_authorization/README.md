@@ -1,6 +1,4 @@
-# Title
-
-Authorization
+# Authorization
 
 # Goal
 

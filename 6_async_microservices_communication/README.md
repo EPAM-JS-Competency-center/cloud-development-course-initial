@@ -1,6 +1,4 @@
-# Title
-
-SQS & SNS, Async Microservices Communication
+# SQS & SNS, Async Microservices Communication
 
 # Goal
 

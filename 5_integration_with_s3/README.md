@@ -1,6 +1,4 @@
-# Title
-
-Integration with S3
+# Integration with S3
 
 # Goal
 

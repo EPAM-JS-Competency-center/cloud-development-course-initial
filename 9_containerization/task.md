@@ -1,4 +1,4 @@
-# Task 8 (Docker and AWS Elastic Beanstalk)
+# Task 9 (Docker and AWS Elastic Beanstalk)
 
 ## Prerequisites
 
@@ -71,7 +71,7 @@ _NOTE: Now after page refresh cart’s content might remain the same._
 
 1. Commit all your work to separate branch (e.g. `task-8` from the latest `master`) in your own repository.
 2. Create a pull request to the `master` branch.
-3. Submit link to the pull request to Crosscheck page in [RS App](https://app.rs.school).
+3. Submit the link to the pull request for crosscheck
 
 ## Evaluation criteria (each mark includes previous mark criteria)
 

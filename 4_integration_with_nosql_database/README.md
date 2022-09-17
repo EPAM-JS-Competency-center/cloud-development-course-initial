@@ -1,6 +1,4 @@
-# Title
-
-Integration with DynamoDB
+# Integration with DynamoDB
 
 # Goal
 

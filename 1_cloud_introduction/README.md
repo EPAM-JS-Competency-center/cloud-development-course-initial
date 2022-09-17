@@ -1,6 +1,4 @@
-# Title
-
-Cloud Introduction
+# Cloud Introduction
 
 # Goal
 
