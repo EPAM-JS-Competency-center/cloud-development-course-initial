@@ -107,6 +107,8 @@
   - [Tutorial: Your First Serverless Framework Project](https://www.serverless.com/framework/docs/tutorial)
   - [AWS S3 Buckets Overview](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingBucket.html)
   - [Pseudo Parameters Reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
+  - [What is the AWS CDK?](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+  - [Example of deploying static site with AWS CDK](https://github.com/EPAM-JS-Competency-center/nodejs-aws-cdk-starter)
   </blockquote>
 
 </details>
