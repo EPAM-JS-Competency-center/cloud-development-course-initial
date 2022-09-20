@@ -39,11 +39,6 @@ By the end of the program your application must be able to do:
     - How to use cloud solutions (Read about possible showcases)?
     - What is a serverless architecture?
 
-3.  Pass the [test](https://forms.gle/RHBM9HBoSKzumT9v9)
-
-    - You will be able to pass only once!
-    - Test will stop accepting answers right after the deadline!
-
 ### Task 1.3
 
 1. Decide which FE framework will be used:
