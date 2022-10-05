@@ -53,7 +53,6 @@ Find the entire program architecture: [here](../Architecture.pdf).
 2. The event should be `s3:ObjectCreated:*`
 3. Configure the event to be fired only by changes in the `uploaded` folder in S3.
 4. The lambda function should use a _readable stream_ to get an object from S3, parse it using `csv-parser` package and log each record to be shown in CloudWatch.
-5. The response should be a correct HTTP response code.
 
 ### Task 5.4
 
