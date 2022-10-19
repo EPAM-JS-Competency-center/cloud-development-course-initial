@@ -81,7 +81,7 @@ _FE: One product model as a result of BE models join (product and it's stock)_
 
 _NOTE: This setup means User cannot buy more than `product.count` (no more items in stock) - but this is future functionality on FE side._
 
-4. Integrate the `getProductsById` lambda to return via GET `/products/{productId}` request a single product from the database. **Do not commit your environment variables in serverless.yml to github!**
+4. Integrate the `getProductsById` lambda to return via GET `/products/{productId}` request a single product from the database.
 
 ### Task 4.3
 
@@ -114,7 +114,7 @@ Reviewers should verify the lambda functions by invoking them through provided U
 - **+1** **(All languages)** - POST `/products` lambda functions returns error 400 status code if product data is invalid
 - **+1** **(All languages)** - All lambdas return error 500 status code on any error (DB connection, any unhandled error in code)
 - **+1** **(All languages)** - All lambdas do `console.log` for each incoming requests and their arguments
-- **+1** **(All languages)** - Use RDS instance instead fo DynamoDB tables
+- **+1** **(All languages)** - Use RDS instance instead fo DynamoDB tables. **Do not commit your environment variables in serverless.yml to github!**
 - **+1** **(All languages)** - Transaction based creation of product (in case stock creation is failed then related to this stock product is not created and not ready to be used by the end user and vice versa) (https://devcenter.kinvey.com/nodejs/tutorials/bl-transactional-support, https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/transaction-apis.html)
 
 ## Description Template for PRs
