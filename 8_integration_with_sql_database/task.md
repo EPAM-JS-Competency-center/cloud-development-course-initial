@@ -22,6 +22,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 1. Fork a copy of [Cart Service template repository](https://github.com/boale/rs-cart-api)
 2. Use the guide (https://docs.nestjs.com/faq/serverless) to integrate Nest.js application with serverless. 
 3. Deploy your code to AWS Lambda
+
 _Actually, it's not recommended having routing inside AWS Lambda, since it can be done by other services such as API Gateway.
 But it's the easiest way to deploy application, and it's done only for educational approaches._   
 
@@ -74,9 +75,9 @@ Cart Item model:
 
 Reviewers should verify the lambda functions by invoking them through provided URLs.
 
-- **1** - Task 7.1 is implemented
-- **3** - Task 7.2 is implemented lambda links are provided and returns data
-- **4** - Task 7.3 is implemented lambda links are provided and products is stored in DB
+- **1** - Task 8.1 is implemented
+- **3** - Task 8.2 is implemented lambda links are provided and returns data
+- **4** - Task 8.3 is implemented lambda links are provided and products is stored in DB
 
 ## Additional (optional) tasks
 
