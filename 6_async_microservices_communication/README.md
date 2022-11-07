@@ -29,7 +29,7 @@
 
    <blockquote>
 
-   - [TBD](https://videoportal.epam.com/), ~0 mins
+   - [Async Microservices Communication](https://videoportal.epam.com/video/qYLd4wYX), ~1 hour 32 mins
    </blockquote>
   </details>
 
