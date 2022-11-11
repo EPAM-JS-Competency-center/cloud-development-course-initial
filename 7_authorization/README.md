@@ -30,7 +30,7 @@
 
    <blockquote>
 
-   - [TBD](https://videoportal.epam.com/), ~0 mins
+   - [Authorization](https://videoportal.epam.com/video/mYQroEJp), ~0 mins
    </blockquote>
   </details>
 
