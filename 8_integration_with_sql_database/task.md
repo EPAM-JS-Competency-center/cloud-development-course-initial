@@ -48,7 +48,7 @@ Cart Item model:
   cart_items:
     cart_id - uuid (Foreign key from carts.id)
     product_id - uuid
-    count - integer (Total number of products in stock, can't be exceeded)
+    count - integer (Number of items in a cart)
 ```
 
 
