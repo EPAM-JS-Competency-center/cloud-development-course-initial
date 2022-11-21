@@ -37,7 +37,8 @@ Cart model:
 
 ```
   carts:
-    id -  uuid (Primary key)
+    id - uuid (Primary key)
+    user_id - uuid, not null (It's not Foreign key, because there is no user entity in DB)
     created_at - date, not null
     updated_at - date, not null
 ```
