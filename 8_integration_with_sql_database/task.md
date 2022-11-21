@@ -76,7 +76,7 @@ Cart Item model:
 Reviewers should verify the lambda functions by invoking them through provided URLs.
 
 - **1** - Task 8.1 is implemented
-- **3** - Task 8.2 is implemented lambda links are provided and returns data
+- **3** - Task 8.2 is implemented
 - **4** - Task 8.3 is implemented lambda links are provided and products is stored in DB
 
 ## Additional (optional) tasks
