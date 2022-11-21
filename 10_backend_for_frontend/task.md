@@ -25,7 +25,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ---
 
-### Task 9.1
+### Task 10.1
 
 1. Create a new service called `bff-service` at the same level as Product Service and Import Service. The backend project structure should look like this:
 
@@ -54,7 +54,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 4. If BFF Service cannot find `recipientURL` by the `{recipient-service-name}`, return a "Cannot process request" error message with status 502.
 5. BFF Service should return the same status code and error message that the recipient service returns to the BFF Service in case of any error on the recipient service side.
 
-### Task 9.2
+### Task 10.2
 
 1. Deploy BFF Service with Elastic Beanstalk.
 
@@ -66,7 +66,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 2. BFF Service should work only with requests from the Product Service and Cart Service.
 3. All Product Service and Cart Service methods should work correctly if requested via BFF Service
 
-### Task 9.3
+### Task 10.3
 
 1. Commit all your work to separate branch (e.g. `task-9` from the latest `master`) in your own repository.
 2. Create a pull request to the `master` branch.
