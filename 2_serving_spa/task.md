@@ -73,7 +73,7 @@ _NOTE: Now that you have this plugin you don’t need to manually create CloudFr
 
 NOTE: YOU SHOULD WORK IN YOUR OWN FORKED REPOSITORY, NOT IN COMMON
 
-## Description Teamplate for PRs
+## Description Template for PRs
 
 ---
 
