@@ -54,17 +54,17 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 Reviewers should verify the lambda functions, SQS and SNS topic and subscription in PR.
 
-- **1** - File `serverless.yml` contains configuration for `catalogBatchProcess` function
-- **2** - File `serverless.yml` contains policies to allow lambda `catalogBatchProcess` function to interact with SNS and SQS
-- **3** - File `serverless.yml` contains configuration for SQS `catalogItemsQueue`
-- **4** - File `serverless.yml` contains configuration for SNS Topic `createProductTopic` and email subscription
+- **20** - File `serverless.yml` contains configuration for `catalogBatchProcess` function
+- **40** - File `serverless.yml` contains policies to allow lambda `catalogBatchProcess` function to interact with SNS and SQS
+- **60** - File `serverless.yml` contains configuration for SQS `catalogItemsQueue`
+- **80** - File `serverless.yml` contains configuration for SNS Topic `createProductTopic` and email subscription
 
 ## Additional (optional) tasks
 
 ---
 
-- **+1** **(All languages)** - `catalogBatchProcess` lambda is covered by **unit** tests
-- **+1** **(All languages)** - set a Filter Policy for SNS `createProductTopic` in `serverless.yml` and create an additional email subscription to distribute messages to different emails depending on the filter for any product attribute
+- **+10** **(All languages)** - `catalogBatchProcess` lambda is covered by **unit** tests
+- **+10** **(All languages)** - set a Filter Policy for SNS `createProductTopic` in `serverless.yml` and create an additional email subscription to distribute messages to different emails depending on the filter for any product attribute
 
 ## Description Teamplate for PRs
 

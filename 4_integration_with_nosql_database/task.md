@@ -102,20 +102,20 @@ _NOTE: This setup means User cannot buy more than `product.count` (no more items
 
 Reviewers should verify the lambda functions by invoking them through provided URLs.
 
-- **1** - Task 4.1 is implemented
-- **3** - Task 4.2 is implemented lambda links are provided and returns data
-- **4** - Task 4.3 is implemented lambda links are provided and products is stored in DB (call Task 4.2 to see the product)
-- **5** - Your own Frontend application is integrated with Product Service (`/products` API) and products from Product Service are represented on Frontend. Link to a working Frontend application is provided for cross-check reviewer.
+- **20** - Task 4.1 is implemented
+- **40** - Task 4.2 is implemented lambda links are provided and returns data
+- **65** - Task 4.3 is implemented lambda links are provided and products is stored in DB (call Task 4.2 to see the product)
+- **80** - Your own Frontend application is integrated with Product Service (`/products` API) and products from Product Service are represented on Frontend. Link to a working Frontend application is provided for cross-check reviewer.
 
 ## Additional (optional) tasks
 
 ---
 
-- **+1** **(All languages)** - POST `/products` lambda functions returns error 400 status code if product data is invalid
-- **+1** **(All languages)** - All lambdas return error 500 status code on any error (DB connection, any unhandled error in code)
-- **+1** **(All languages)** - All lambdas do `console.log` for each incoming requests and their arguments
-- **+1** **(All languages)** - Use RDS instance instead fo DynamoDB tables. **Do not commit your environment variables in serverless.yml to github!**
-- **+1** **(All languages)** - Transaction based creation of product (in case stock creation is failed then related to this stock product is not created and not ready to be used by the end user and vice versa) (https://devcenter.kinvey.com/nodejs/tutorials/bl-transactional-support, https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/transaction-apis.html)
+- **+4** **(All languages)** - POST `/products` lambda functions returns error 400 status code if product data is invalid
+- **+4** **(All languages)** - All lambdas return error 500 status code on any error (DB connection, any unhandled error in code)
+- **+4** **(All languages)** - All lambdas do `console.log` for each incoming requests and their arguments
+- **+4** **(All languages)** - Use RDS instance instead fo DynamoDB tables. **Do not commit your environment variables in serverless.yml to github!**
+- **+4** **(All languages)** - Transaction based creation of product (in case stock creation is failed then related to this stock product is not created and not ready to be used by the end user and vice versa) (https://devcenter.kinvey.com/nodejs/tutorials/bl-transactional-support, https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/transaction-apis.html)
 
 ## Description Template for PRs
 
