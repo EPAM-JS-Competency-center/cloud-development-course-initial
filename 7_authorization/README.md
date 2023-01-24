@@ -30,7 +30,7 @@
 
    <blockquote>
 
-   - [Authorization](https://videoportal.epam.com/video/mYQroEJp), ~0 mins
+   - [Authorization](https://videoportal.epam.com/video/mYQroEJp), ~93 mins
    </blockquote>
   </details>
 
