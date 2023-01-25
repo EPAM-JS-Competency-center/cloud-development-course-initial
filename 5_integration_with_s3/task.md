@@ -66,19 +66,19 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 Reviewers should verify the lambda functions by invoking them through provided URLs.
 
-- **1** - File `serverless.yml` contains configuration for `importProductsFile` function
-- **3** - The `importProductsFile` lambda function returns a correct response which can be used to upload a file into the S3 bucket
-- **4** - Frontend application is integrated with `importProductsFile` lambda
-- **5** - The `importFileParser` lambda function is implemented and `serverless.yml` contains configuration for the lambda
+- **20** - File `serverless.yml` contains configuration for `importProductsFile` function
+- **40** - The `importProductsFile` lambda function returns a correct response which can be used to upload a file into the S3 bucket
+- **60** - Frontend application is integrated with `importProductsFile` lambda
+- **80** - The `importFileParser` lambda function is implemented and `serverless.yml` contains configuration for the lambda
 
 ## Additional (optional) tasks
 
 ---
 
-- **+1** **(for JS only)** - **async/await** is used in lambda functions
-- **+1** **(All languages)** - `importProductsFile` lambda is covered by _unit tests_.
+- **+6** **(for JS only)** - **async/await** is used in lambda functions
+- **+7** **(All languages)** - `importProductsFile` lambda is covered by _unit tests_.
   (for JS only) [aws-sdk-mock](https://www.npmjs.com/package/aws-sdk-mock) can be used to mock S3 methods
-- **+1** **(All languages)** - At the end of the stream the lambda function should move the file from the `uploaded` folder into the `parsed` folder (`move the file` means that file should be copied into a new folder in the same bucket called `parsed`, and then deleted from `uploaded` folder)
+- **+7** **(All languages)** - At the end of the stream the lambda function should move the file from the `uploaded` folder into the `parsed` folder (`move the file` means that file should be copied into a new folder in the same bucket called `parsed`, and then deleted from `uploaded` folder)
 
 ## Description Teamplate for PRs
 

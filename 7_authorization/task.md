@@ -89,9 +89,9 @@ _NOTE: Do not send your credentials to the GitHub. Use `.env` file and `serverle
 
 Provide your reviewers with the link to the repo, client application and URLs to execute the `/import` path of the Import Service`
 
-- **1** - `authorization-service` is added to the repo, has correct `basicAuthorizer` lambda and correct `serverless.yaml` file
-- **3** - Import Service `serverless.yaml` file has authorizer configuration for the `importProductsFile` lambda. Request to the `importProductsFile` lambda should work only with correct `authorization_token` being decoded and checked by `basicAuthorizer` lambda. Response should be in 403 HTTP status if access is denied for this user (invalid `authorization_token`) and in 401 HTTP status if Authorization header is not provided.
-- **5** - Client application is updated to send "Authorization: Basic `authorization_token`" header on import. Client should get `authorization_token` value from browser [localStorage](https://developer.mozilla.org/ru/docs/Web/API/Window/localStorage)
+- **30** - `authorization-service` is added to the repo, has correct `basicAuthorizer` lambda and correct `serverless.yaml` file
+- **60** - Import Service `serverless.yaml` file has authorizer configuration for the `importProductsFile` lambda. Request to the `importProductsFile` lambda should work only with correct `authorization_token` being decoded and checked by `basicAuthorizer` lambda. Response should be in 403 HTTP status if access is denied for this user (invalid `authorization_token`) and in 401 HTTP status if Authorization header is not provided.
+- **80** - Client application is updated to send "Authorization: Basic `authorization_token`" header on import. Client should get `authorization_token` value from browser [localStorage](https://developer.mozilla.org/ru/docs/Web/API/Window/localStorage)
 
 ## Additional (optional) tasks
 
@@ -99,7 +99,7 @@ Provide your reviewers with the link to the repo, client application and URLs to
 
 _NOTE: Recommended for personal growth and further interviews, but this part would not be evauated on cross-check._
 
-- **+1** - Client application should display alerts for the responses in 401 and 403 HTTP statuses. This behavior should be added to the `nodejs-aws-fe-main/src/index.tsx` file.
+- **+20** - Client application should display alerts for the responses in 401 and 403 HTTP statuses. This behavior should be added to the `nodejs-aws-fe-main/src/index.tsx` file.
 - **Just Practice, No Evaluation** - Add Login page and protect `getProductsList` lambda by the Cognito Authorizer
   - Create Cognito User Pool using a demo from the lecture. Leave `email` in a list of standard required attributes. Checkbox `Allow users to sign themselves up` should be checked. Also, set `email` as an attribute that you want to verify.
   - Add `App Client` to the User Pool
