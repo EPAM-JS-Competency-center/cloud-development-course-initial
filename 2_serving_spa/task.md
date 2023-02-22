@@ -62,8 +62,6 @@ _NOTE: Now that you have this plugin you don’t need to manually create CloudFr
 
 ---
 
-- **0** - Nothing has been done.
-  _(Link to repository is not provided. Nothing to check.)_
 - **60** - S3 bucket has been created and configured properly. The app has been uploaded to the bucket and is available though the Internet. Nothing else has been done.
   _(Link to S3 bucket/website is provided. There is no Pull Request in the YOUR OWN frontend repository.)_
 - **80** - In addition to the previous work a CloudFront distribution is created and configured properly and the site is served now with CloudFront and is available through the Internet over CloudFront URL, not S3-website link (due to changes in bucket’s policy...).
