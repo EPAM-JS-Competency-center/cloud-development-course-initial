@@ -73,15 +73,19 @@ _NOTE: Now after page refresh cart’s content might remain the same._
 2. Create a pull request to the `master` branch.
 3. Submit the link to the pull request for crosscheck
 
-## Evaluation criteria (each mark includes previous mark criteria)
+## Evaluation criteria (70 points for covering all criteria)
 
 ---
 
-- **1** - `Dockerfile` is prepared, image is building. Image size is minimized to be less than 500 MB.
-- **2** - `Dockerfile` is optimized. Files that change more often and commands that depend on them should be included later, files and commands that change less should be at the top.
-- **3** - Folders are added to .dockerignore, with explanations. At least 2 big directories should be excluded from build context. Elastic Beanstalk application is initialized.
-- **4** - Environment is created and the app is deployed to the AWS cloud. You must provide a link to your GitHub repo with Cart Service API or PR with created `Dockerfile` and related configurations.
-- **5** - FE application is updated with Cart API endpoint. You must provide a PR with updates in your FE repository and OPTIONALLY link to deployed front-end app which makes proper API calls to your Cart Service.
+- `Dockerfile` is prepared, image is building. Image size is minimized to be less than 500 MB.
+- `Dockerfile` is optimized. Files that change more often and commands that depend on them should be included later, files and commands that change less should be at the top.
+- Folders are added to .dockerignore, with explanations. At least 2 big directories should be excluded from build context. Elastic Beanstalk application is initialized.
+
+## Additional (optional) tasks
+
+---
+- **15** - Environment is created and the app is deployed to the AWS cloud. You must provide a link to your GitHub repo with Cart Service API or PR with created `Dockerfile` and related configurations.
+- **15** - FE application is updated with Cart API endpoint. You must provide a PR with updates in your FE repository and OPTIONALLY link to deployed front-end app which makes proper API calls to your Cart Service.
 
 ## Description Teamplate for PRs
 

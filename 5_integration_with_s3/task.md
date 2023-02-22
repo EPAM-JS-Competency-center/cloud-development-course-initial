@@ -60,25 +60,25 @@ Find the entire program architecture: [here](../Architecture.pdf).
 2. Create a pull request to the `master` branch.
 3. Submit the link to the pull request for crosscheck
 
-## Evaluation criteria (each mark includes previous mark criteria)
+## Evaluation criteria (70 points for covering all criteria)
 
 ---
 
 Reviewers should verify the lambda functions by invoking them through provided URLs.
 
-- **20** - File `serverless.yml` contains configuration for `importProductsFile` function
-- **40** - The `importProductsFile` lambda function returns a correct response which can be used to upload a file into the S3 bucket
-- **60** - Frontend application is integrated with `importProductsFile` lambda
-- **80** - The `importFileParser` lambda function is implemented and `serverless.yml` contains configuration for the lambda
+- File `serverless.yml` contains configuration for `importProductsFile` function
+- The `importProductsFile` lambda function returns a correct response which can be used to upload a file into the S3 bucket
+- Frontend application is integrated with `importProductsFile` lambda
+- The `importFileParser` lambda function is implemented and `serverless.yml` contains configuration for the lambda
 
 ## Additional (optional) tasks
 
 ---
 
-- **+6** **(for JS only)** - **async/await** is used in lambda functions
-- **+7** **(All languages)** - `importProductsFile` lambda is covered by _unit tests_.
+- **+10** **(for JS only)** - **async/await** is used in lambda functions
+- **+10** **(All languages)** - `importProductsFile` lambda is covered by _unit tests_.
   (for JS only) [aws-sdk-mock](https://www.npmjs.com/package/aws-sdk-mock) can be used to mock S3 methods
-- **+7** **(All languages)** - At the end of the stream the lambda function should move the file from the `uploaded` folder into the `parsed` folder (`move the file` means that file should be copied into a new folder in the same bucket called `parsed`, and then deleted from `uploaded` folder)
+- **+10** **(All languages)** - At the end of the stream the lambda function should move the file from the `uploaded` folder into the `parsed` folder (`move the file` means that file should be copied into a new folder in the same bucket called `parsed`, and then deleted from `uploaded` folder)
 
 ## Description Teamplate for PRs
 

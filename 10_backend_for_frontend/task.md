@@ -72,7 +72,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 2. Create a pull request to the `master` branch.
 3. Submit the link to the pull request for crosscheck
 
-## Evaluation criteria (each mark includes previous mark criteria)
+## Evaluation criteria (70 points for covering all criteria)
 
 ---
 
@@ -87,8 +87,8 @@ Provide your reviewers with the following information:
 
 ---
 
-- **3** - A working and correct `Express` application should be in the `bff-service` folder. Reviewer can start this application locally with any valid configuration in the `.env` file and this application should works as described in the Task 9.1
-- **5** - The BFF Service should be deployed with Elastic Beanstalk. The BFF Service call should be redirected to the appropriate service : Product Service or Cart Service. The response from the BFF Service should be the same as if Product Service or Cart Service services were called directly.
+- A working and correct `Express` application should be in the `bff-service` folder. Reviewer can start this application locally with any valid configuration in the `.env` file and this application should works as described in the Task 9.1
+- The BFF Service should be deployed with Elastic Beanstalk. The BFF Service call should be redirected to the appropriate service : Product Service or Cart Service. The response from the BFF Service should be the same as if Product Service or Cart Service services were called directly.
 
 ## Application Functionality (**MUST HAVE**)
 
@@ -107,16 +107,16 @@ By this point your application must be able to do:
 
 ---
 
-- **+1** - Add a cache at the BFF Service level for a request to the `getProductsList` lambda function of the Product Service. The cache should expire in 2 minutes.  
+- **+15** - Add a cache at the BFF Service level for a request to the `getProductsList` lambda function of the Product Service. The cache should expire in 2 minutes.  
   How to test:
   - Get products list
   - Create new product
   - Get products list - result shouldn’t have new product
   - Wait more than 2 minutes
   - Get products list - result should have new product
-- **+1** - Use `NestJS` to create BFF Service instead of `Express`
+- **+15g** - Use `NestJS` to create BFF Service instead of `Express`
 
-## Description Teamplate for PRs
+## Description Template for PRs
 
 ---
 

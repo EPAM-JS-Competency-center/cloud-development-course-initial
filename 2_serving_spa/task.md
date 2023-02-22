@@ -58,15 +58,18 @@ _NOTE: Now that you have this plugin you don’t need to manually create CloudFr
 3. Create a pull request to the `master` branch.
 4. Submit the link to the pull request for crosscheck
 
-## Evaluation criteria (each mark includes previous mark criteria)
+## Evaluation criteria (70 points for covering all criteria)
 
 ---
-
-- **60** - S3 bucket has been created and configured properly. The app has been uploaded to the bucket and is available though the Internet. Nothing else has been done.
+- S3 bucket has been created and configured properly. The app has been uploaded to the bucket and is available though the Internet. Nothing else has been done.
   _(Link to S3 bucket/website is provided. There is no Pull Request in the YOUR OWN frontend repository.)_
-- **80** - In addition to the previous work a CloudFront distribution is created and configured properly and the site is served now with CloudFront and is available through the Internet over CloudFront URL, not S3-website link (due to changes in bucket’s policy...).
+- In addition to the previous work a CloudFront distribution is created and configured properly and the site is served now with CloudFront and is available through the Internet over CloudFront URL, not S3-website link (due to changes in bucket’s policy...).
   _(Link to CloudFront website is provided. S3-website shows 403 Access Denied error. There is no Pull Request in the YOUR OWN frontend repository.)_
-- **100** - `Serverless-finch` and `serverless-single-page-app` plugins are added and configured. The app can be built and deployed by running npm script command.
+
+## Additional (optional) tasks
+
+---
+- **30** - `Serverless-finch` and `serverless-single-page-app` plugins are added and configured. The app can be built and deployed by running npm script command.
   _(Link to CloudFront website is provided. PR with all changes is submitted in the YOUR OWN frontend repository and its link is provided for review.)_
 
 NOTE: YOU SHOULD WORK IN YOUR OWN FORKED REPOSITORY, NOT IN COMMON
