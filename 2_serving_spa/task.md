@@ -46,6 +46,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 Here's a [Demo repo](https://github.com/boale/serverlessTestApp) as an example.
 
 _NOTE: After uploading an application's build to the S3 bucket you need to manually create a CloudFront invalidation._
+
 2. **Destroy** the created AWS infrastructure (S3 bucket and CloudFront distribution) from the previous part and steps. **Make sure** nothing is left.
 3. **Add** and **configure** `serverless-single-page-app-plugin` as it is implemented in the demo repository. **Add** necessary npm script(s) to build, upload to your S3 bucket, and invalidate CloudFront cache from your machine in an automated way. **Check** if everything works fine and all changes appear on the Web.
 
