@@ -1,0 +1,60 @@
+<h1>Manage products</h1>
+
+<div class="d-flex">
+  <app-file-picker
+    class="mr-2"
+    [(file)]="selectedFile"
+    (uploadClick)="onUploadCSV()"
+  ></app-file-picker>
+
+  <button
+    class="text-uppercase"
+    color="primary"
+    mat-flat-button
+    routerLink="new"
+  >
+    create product
+  </button>
+</div>
+
+<table class="w-100" [dataSource]="products$" mat-table>
+  <ng-container matColumnDef="from">
+    <th mat-header-cell *matHeaderCellDef>Title</th>
+    <td mat-cell *matCellDef="let product">
+      {{ product.title }}
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="description">
+    <th mat-header-cell *matHeaderCellDef>Description</th>
+    <td mat-cell *matCellDef="let product">{{ product.description }}</td>
+  </ng-container>
+  <ng-container matColumnDef="price">
+    <th mat-header-cell *matHeaderCellDef>Price</th>
+    <td mat-cell *matCellDef="let product">
+      {{ product.price | number: "1.2-2" | currency }}
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="count">
+    <th mat-header-cell *matHeaderCellDef>Count</th>
+    <td mat-cell *matCellDef="let product">{{ product.count }}</td>
+  </ng-container>
+  <ng-container matColumnDef="action">
+    <th mat-header-cell *matHeaderCellDef>Action</th>
+    <td mat-cell *matCellDef="let product">
+      <button
+        class="text-uppercase mr-2"
+        color="primary"
+        mat-flat-button
+        [routerLink]="product.id"
+      >
+        manage
+      </button>
+      <button class="text-uppercase" color="warn" mat-flat-button>
+        delete
+      </button>
+    </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="columns"></tr>
+  <tr mat-row *matRowDef="let row; columns: columns"></tr>
+</table>

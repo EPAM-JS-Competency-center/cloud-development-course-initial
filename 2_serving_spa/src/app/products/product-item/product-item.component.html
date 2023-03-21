@@ -1,0 +1,41 @@
+<mat-card>
+  <div mat-card-image class="img-container">
+    <div class="img-container__inner">
+      <img src="https://source.unsplash.com/random?sig={{ index }}" alt="" />
+    </div>
+  </div>
+
+  <mat-card-header>
+    <mat-card-title>
+      {{ product.title }}
+    </mat-card-title>
+  </mat-card-header>
+
+  <mat-card-content>
+    <p>{{ product.price | number: "1.2-2" | currency }}</p>
+  </mat-card-content>
+
+  <mat-card-actions>
+    <!-- Add to cart btn -->
+    <button
+      #cartBtn
+      *ngIf="(countInCart$ | async) === 0"
+      (click)="add()"
+      color="accent"
+      matTooltip="Add {{ product.title }} to cart"
+      mat-icon-button
+    >
+      <mat-icon>shopping_cart</mat-icon>
+    </button>
+
+    <app-cart-count-controls
+      #controls="countControls"
+      *ngIf="(countInCart$ | async)! > 0"
+      (increment)="add()"
+      (decrement)="remove()"
+      [productName]="product.title"
+      [count]="(countInCart$ | async)!"
+      [available]="product.count"
+    ></app-cart-count-controls>
+  </mat-card-actions>
+</mat-card>

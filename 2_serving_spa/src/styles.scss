@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+  height: 100%;
+}
+
+@import "bootstrap/scss/bootstrap-reboot";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/mixins";
+@import "bootstrap/scss/utilities";
+@import "bootstrap/scss/bootstrap-grid";
+@import "bootstrap/scss/type";
+
+body {
+  overflow-y: scroll;
+}
+
+.mat-icon-button {
+  // Fix vertical alignment for Firefox
+  line-height: 1 !important;
+}
+
+// snackbar styles
+.shop-snackbar-error {
+  background-color: #ff0015;
+  color: white;
+
+  button {
+    color: white;
+    border: 1px solid;
+  }
+}

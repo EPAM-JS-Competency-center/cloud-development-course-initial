@@ -1,0 +1,80 @@
+<mat-card *ngIf="loaded$ | async; else loaderTemplate">
+  <h1 class="text-center pt-4" mat-card-title>
+    {{ productId ? "Edit product" : "Create new product" }}
+  </h1>
+
+  <mat-card-content>
+    <form class="row" [formGroup]="form">
+      <div class="col-12">
+        <mat-form-field class="w-100">
+          <mat-label>Title</mat-label>
+          <input matInput formControlName="title" />
+          <mat-error
+            *ngIf="titleCtrl.touched && titleCtrl.hasError('required')"
+          >
+            Product title is required
+          </mat-error>
+        </mat-form-field>
+      </div>
+
+      <div class="col-12">
+        <mat-form-field class="w-100">
+          <mat-label>Description</mat-label>
+          <textarea matInput formControlName="description"></textarea>
+          <mat-error
+            *ngIf="
+              descriptionCtrl.touched && descriptionCtrl.hasError('required')
+            "
+          >
+            Product description is required
+          </mat-error>
+        </mat-form-field>
+      </div>
+
+      <div class="col col-md-6">
+        <mat-form-field class="w-100">
+          <mat-label>Price ($)</mat-label>
+          <input type="number" matInput formControlName="price" />
+          <mat-error
+            *ngIf="priceCtrl.touched && priceCtrl.hasError('required')"
+          >
+            Product price is required
+          </mat-error>
+        </mat-form-field>
+      </div>
+
+      <div class="col col-md-6">
+        <mat-form-field class="w-100">
+          <mat-label>Count</mat-label>
+          <input type="number" matInput formControlName="count" />
+          <mat-error
+            *ngIf="countCtrl.touched && countCtrl.hasError('required')"
+          >
+            Product count is required
+          </mat-error>
+        </mat-form-field>
+      </div>
+    </form>
+  </mat-card-content>
+
+  <mat-card-actions>
+    <button class="text-uppercase mr-2" mat-flat-button routerLink="..">
+      cancel
+    </button>
+    <button
+      class="text-uppercase"
+      color="primary"
+      mat-flat-button
+      [disabled]="form.invalid || requestInProgress"
+      (click)="editProduct()"
+    >
+      save product
+    </button>
+  </mat-card-actions>
+</mat-card>
+
+<ng-template #loaderTemplate>
+  <div class="py-5">
+    <mat-spinner [diameter]="40" class="mx-auto"></mat-spinner>
+  </div>
+</ng-template>

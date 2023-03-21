@@ -1,0 +1,110 @@
+<div
+  *ngIf="{
+    products: products$ | async,
+    totalPrice: totalPrice$ | async,
+    cartEmpty: cartEmpty$ | async
+  } as state"
+  class="row"
+>
+  <div class="col mx-auto">
+    <mat-card>
+      <h1 class="text-center pt-4" mat-card-title>Checkout</h1>
+
+      <mat-card-content>
+        <mat-vertical-stepper #stepper [linear]="true">
+          <!-- Review your cart STEP -->
+          <mat-step label="Review your cart" [completed]="state.cartEmpty">
+            <ng-container *ngIf="state.cartEmpty; else emptyCartTemplate">
+              <app-order-summary
+                *ngIf="state.products; else loaderTemplate"
+                (add)="add($event)"
+                (remove)="remove($event)"
+                [products]="state.products"
+                [totalPrice]="state.totalPrice!"
+                [showControls]="true"
+              ></app-order-summary>
+
+              <ng-template #loaderTemplate>
+                <div class="py-5">
+                  <mat-spinner [diameter]="40" class="mx-auto"></mat-spinner>
+                </div>
+              </ng-template>
+
+              <div class="text-right">
+                <button
+                  color="primary"
+                  class="text-uppercase"
+                  mat-flat-button
+                  matStepperNext
+                >
+                  next
+                </button>
+              </div>
+            </ng-container>
+          </mat-step>
+
+          <!-- Shipping address STEP -->
+          <mat-step label="Shipping address" [stepControl]="shippingInfo">
+            <h2>Shipping address</h2>
+
+            <app-cart-shipping-form
+              (nextStep)="stepper.next()"
+              [shippingInfo]="shippingInfo"
+            ></app-cart-shipping-form>
+
+            <div class="text-right">
+              <button class="text-uppercase" mat-button matStepperPrevious>
+                back
+              </button>
+              <button
+                color="primary"
+                class="text-uppercase"
+                mat-flat-button
+                matStepperNext
+              >
+                next
+              </button>
+            </div>
+          </mat-step>
+
+          <!-- Review your order STEP -->
+          <mat-step label="Review your order">
+            <app-order-summary
+              *ngIf="state.products"
+              [products]="state.products"
+              [totalPrice]="state.totalPrice!"
+              [showControls]="false"
+            ></app-order-summary>
+
+            <div class="row">
+              <div class="col col-md-6">
+                <h2>Shipping</h2>
+                <p>{{ fullName }}</p>
+                <p>{{ address }}</p>
+              </div>
+              <div class="col col-md-6">
+                <h2>Comment</h2>
+                <p>{{ comment }}</p>
+              </div>
+            </div>
+
+            <div class="text-right">
+              <button class="text-uppercase" mat-button matStepperPrevious>
+                back
+              </button>
+              <button color="primary" class="text-uppercase" mat-flat-button>
+                place order
+              </button>
+            </div>
+          </mat-step>
+        </mat-vertical-stepper>
+      </mat-card-content>
+    </mat-card>
+  </div>
+</div>
+
+<ng-template #emptyCartTemplate>
+  <div class="lead">
+    The cart is empty. Didn't you like anything in our shop?
+  </div>
+</ng-template>

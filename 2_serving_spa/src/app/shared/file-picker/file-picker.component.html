@@ -1,0 +1,30 @@
+<input
+  #fileInput
+  (change)="selectFile(fileInput.files)"
+  accept="text/csv"
+  class="d-none"
+  type="file"
+/>
+
+<div class="h5 mb-0 text-muted d-flex align-items-center">
+  <ng-container *ngIf="file; else selectFileTemplate">
+    <span class="mr-3">Selected file: {{ file.name }}</span>
+
+    <button
+      class="mr-1"
+      (click)="uploadClick.emit()"
+      color="primary"
+      mat-flat-button
+    >
+      Upload
+    </button>
+    <button (click)="removeFile()" color="warn" mat-flat-button>Delete</button>
+  </ng-container>
+</div>
+
+<ng-template #selectFileTemplate>
+  <span class="mr-3">Select file to upload</span>
+  <button (click)="fileInput.click()" color="accent" mat-flat-button>
+    Import Products CSV
+  </button>
+</ng-template>

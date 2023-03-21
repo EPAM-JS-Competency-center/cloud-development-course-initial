@@ -1,0 +1,23 @@
+<h2>Order summary</h2>
+
+<ng-container>
+  <app-product-item-checkout
+    *ngFor="let product of products"
+    (add)="add.emit(product.id)"
+    (remove)="remove.emit(product.id)"
+    [product]="product"
+    [hideControls]="!showControls"
+  ></app-product-item-checkout>
+</ng-container>
+
+<div class="row">
+  <h3 class="col flex-grow-1">Shipping</h3>
+  <span class="col flex-grow-0">Free</span>
+</div>
+
+<div class="row">
+  <h3 class="col flex-grow-1">Total</h3>
+  <b class="col flex-grow-0" style="font-size: 18px">{{
+    totalPrice | number: "1.2-2" | currency
+  }}</b>
+</div>
