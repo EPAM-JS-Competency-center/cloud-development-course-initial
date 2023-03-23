@@ -90,7 +90,6 @@ Order model:
   orders:
     id - uuid
     user_id - uuid
-    cart_id - uuid (Foreign key from carts.id)
     payment - JSON
     delivery - JSON
     comments - text
