@@ -41,6 +41,8 @@ Cart model:
     user_id - uuid, not null (It's not Foreign key, because there is no user entity in DB)
     created_at - date, not null
     updated_at - date, not null
+    status - enum ("OPEN", "ORDERED") 
+
 ```
 
 Cart Item model:
@@ -90,12 +92,14 @@ Order model:
   orders:
     id - uuid
     user_id - uuid
+    cart_id - uuid (Foreign key from carts.id)
     payment - JSON
     delivery - JSON
     comments - text
     status - ENUM or text
     total - number
 ```
+Set `status` to 'ORDERED' after checkout instead of cart deletion.
 - **+4** **(All languages)** - Create users table and integrate with it
 - **+3** **(All languages)** - Transaction based creation of checkout
 - **+3** **(All languages)** - Integrate Cart service with FE repository
