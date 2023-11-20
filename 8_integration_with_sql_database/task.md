@@ -60,7 +60,7 @@ Cart Item model:
 ### Task 8.3
 
 1. Update source code in the application to use PostgreSQL instead of memory storage.
-- [Here](https://github.com/angry-coconut/nestjs-typeorm-example) you can find example of itegration with typeorm.
+- [Here](https://github.com/nestjs/nest/tree/master/sample/07-sequelize) you can find example of itegration with typeorm.
 - Or you can use a simpler library such as [pg](https://www.npmjs.com/package/pg).
 2. Integrate with RDS
 3. Extend your `serverless.yml` file with credentials to your database instance and pass it to lambda’s environment variables section.
