@@ -19,7 +19,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ### Task 4.1
 
-1. Use AWS Console to create two database tables in DynamoDB. Expected schemas for products and stocks:
+1. Use AWS Console to create two database tables in DynamoDB. Expected schemas for products and stock:
 
 Product model:
 
@@ -34,7 +34,7 @@ Product model:
 Stock model:
 
 ```
-  stocks:
+  stock:
     product_id - uuid (Foreign key from products.id)
     count - integer (Total number of products in stock, can't be exceeded)
 ```
@@ -44,7 +44,7 @@ Stock model:
 ### Task 4.2
 
 1. Extend your `serverless.yml` file with data about your database table and pass it to lambda’s environment variables section.
-2. Integrate the `getProductsList` lambda to return via GET `/products` request a list of products from the database (joined stocks and products tables).
+2. Integrate the `getProductsList` lambda to return via GET `/products` request a list of products from the database (joined stock and products tables).
 3. Implement a Product model on FE side as a joined model of product and stock by `productId`. For example:
 
 _BE: Separate tables in DynamoDB_
